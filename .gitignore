@@ -1,0 +1,11 @@
+.hugo/
+public/
+resources/
+themes/
+*.backup
+
+package-lock.json
+
+.hugo_build.lock
+
+tools/
