@@ -22,7 +22,7 @@ theme = 'design-system'
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
 [languages]
 [languages.en]
-title = '12th Social Science'
+title = '10th Social Science'
 languageName = 'English'
 contentDir = 'content.en'
 weight = 1
