@@ -33,8 +33,9 @@ languageName = 'தமிழ்'
 contentDir = 'content.ta'
 weight = 2
 
-[params]
-  [[params.question_repositories]]
-    githubhandle = "tnedu"
-    name = "Competitive exams"
-    url = "/physics-electrostatics"
+
+[security]
+  enableInlineShortcodes = true
+  allowContent = ['(?i)text/markdown', '(?i)text/html']
+[security.funcs]
+  getenv = ['^HUGO_','CONTEXT','BUILD_PRODUCTION']
