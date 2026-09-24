@@ -6,9 +6,9 @@ weight: 4
 summary: "The major political and international developments after World War II, including the Cold War, decolonisation and the emergence of new global powers."
 ---
 
-**Unit - 2**
+Unit - 4
 
-**The World between Two World Wars**
+**The World After World War II**
 
 ![](assets/page_001_picture_002.png)
 
@@ -16,21 +16,26 @@ summary: "The major political and international developments after World War II,
 
 **To acquaint ourselves with**
 
+- Communist Revolution in China
+- Cold War and the Non-Aligned Movement
+- Korean War and the Cuban Missile Crisis
+- Arab–Israeli Wars and Vietnam War
+- European Economic Community and European Union
+- Fall of Berlin Wall and the End of Cold War Era
+
 **Introduction**
 
-The First World War shattered the global capitalist system based on European imperialism. The European powers were gravely weakened by the War, financially and politically. The conflict between the workers and the ruling classes that controlled the government became intense. As a result of this Fascism emerged in Italy and Germany. Anti-colonial struggles got intensified as the colonial powers were weakened by the War.
+In the aftermath of Second World War a new era began. It was the beginning of the decline of European colonial empires and the independence of colonies in Asia and Africa. If the effects of World War I led to the communist revolution of Russia, the Second World War played a big part in the communist revolution in China. The emergence of the US and the USSR as super powers resulted in the division of the world into two antagonistic blocs. A cold war situation triggered deadly conflicts in Korea, Cuba, Vietnam and West Asia.
 
-As we saw in the last chapter, the crisis in the Western world had led to the outbreak of World War I. We now turn to the social and political developments in the world after the end of the War.
+Under the Marshall Plan for reconstruction of the war-ravaged Europe, the US won the trust of the great powers in Europe. Soviet Russia, by demonstrating solidarity with the liberation struggles of countries in Asia and Africa, earned the goodwill of the latter.
 
-### 2.1 The Great Depression
+The Non-Aligned Movement played a limited role in containing the conflict between the two power blocs. In a bid to wriggle out of US control, European countries started the European movement in the form of Council of Europe. This developed into the European Common Market and finally into what is today the European Union. The Cold War period ended with the fall of Berlin Wall.
 
-**Developments in the post-World War I**
+### 4.1 Chinese Revolution
 
-The First World War led to the expansion of certain industries in the hope that the war-time boom would continue. However, when the War came to an end, the industries that grew to meet war-time requirements had to be abandoned or modified. The situation was made worse by the political complications caused by the Treaty of Versailles. A new wave of economic nationalism which expressed itself in protectionism or in tariff barriers affected world trade. The war also placed a heavy burden of debt on every European country.
+**(a) China in the Pre-War Period**
 
-**Stock Market Crash in the US**
-
-The first huge crash occurred on 24 October 1929. This discouraged investors and consumers to such an extent that more and more people began to sell their shares and dispose of their stocks. But there were no buyers. This was followed by the failure of American banks. The American financiers were forced to withdraw their own funds invested abroad.
+In its long history, Chinese civilization was more advanced than that of Europe. But by the end of the nineteenth century, its progress had halted. The Manchus, the ruling dynasty, had governed China since about 1650. The entire administration system was in the hands of a bureaucracy of scholar-officials called mandarins who came from the landed gentry. The mass of peasant population was povertystricken, and suffered from high rents, high taxes, and shortage of land. There was a very little industry, though some railways and engineering works had been built.
 
 ![](assets/page_001_picture_004.png)
 
@@ -38,253 +43,317 @@ The first huge crash occurred on 24 October 1929. This discouraged investors and
 
 ![](assets/page_001_picture_006.png)
 
-**Breakdown of the International System of Exchange**
+Discontent with the political and economic system resulted in a number of peasant uprisings. The Taiping Rebellion (1850–64) was a major rebellion. In the two opium wars of 1832 and 1848, China was defeated and was compelled to open its ports to western powers. The opening of China to western imperialism led to economic exploitation and the impoverishment of the Chinese people.
 
-Despite emergency measures such as cutbacks in expenditure and increased taxation, the situation did not improve in England. So England decided to leave the Gold Standard. Immediately a great number of countries left the gold standard. Each nation adopted a policy of protectionism and devaluation of currency. Devaluation forced creditors to stop lending. This led to a world-wide credit contraction. Thus the defensive measures adopted by various nations to safeguard their economic interests led to an unprecedented decline in world economic activity. As its effect was deep and prolonged economists and historians call it the Great Depression.
+The European presence produced a profound hatred of foreigners. This combined with military defeat, led to more pressing demands for reforms from the Western-educated intellectuals. In 1898, the young Emperor, initiated a series of reforms known as the Hundred Days of Reform. But these reforms aroused tremendous opposition from the powerful conservatives and the Dowager-Empress Tzú Hsi. She imprisoned the Emperor and reversed the reforms.
 
-Gold Standard is a monetary system where a country's currency or paper money carried a value directly linked to gold.
+**(b) The Chinese Revolution 1911**
 
-**Repercussion in Politics**
+The disintegration of the Manchu dynasty began with the death of the Dowager-Empress in 1908. The new emperor was two-years old and the provincial governors began to assert their independence. In October 1911 the local
 
-The Depression changed the political conditions in several countries. In England, the Labour Party was defeated in the general elections of 1931. In the USA, the Republican Party was rejected by the people in successive elections for about twenty years after the Depression.
+![](assets/page_002_picture_002.png)
 
-### 2.2 Rise of Fascism and Nazism
+Dr. Sun Yat-sen (1866–1925)
 
-**(a) The Impact of War in Italy**
+Born in a poor family near Canton, Dr. Sun Yat-sen, the father of modern china was educated in a mission school and became a
 
-The first of the nations of Western Europe to turn against the old ruling regime was Italy. During World War I the primary task of Italy was to keep the Austrians occupied on the Southern Front, while the British, French and Americans cornered Germany into submission along the battle lines in Flanders. The financial cost of the participation in the War was huge. Moreover, after the War, in the sharing of the spoils, Italy got less than she expected. The country suffered heavy losses in a war that was unpopular with both socialists and pro-Austrian Catholics. The nationalists were equally unhappy with the marginal gain in territory from the Treaty of Versailles. The War resulted in inflation. There were frequent protests and strikes. People held the rulers responsible for the humiliation at Versailles.
+Christian. He was then trained as a doctor of medicine in Hong Kong. Evincing interest in politics he took part in a rising against the Manchus in 1895. In 1905 he founded in Tokyo the political party which in 1912 became the Kuomintang or the National People's Party. Dr. Sun Yat-sen's three principles were Nationalism, Democracy, and People's livelihood with Socialism as the ultimate objective.
 
-**Emergence of Mussolini**
+army mutinied and the revolt spread. Provincial governors removed the Manchu garrisons and proclaimed their independence. Already there were a few middle-class leaders. Dr. Sun Yat-sen was one among them. On hearing the news of the rising in a newspaper in the United States Sun Yat-sen arrived in Shanghai and was immediately elected the provisional president of the new Chinese Republic.
 
-In the elections held November 1919 in the aftermath of the Treaty of Versailles, Italian socialists, proclaiming that they were following Bolshevism (Communism in Soviet Russia), won about a third of the seats. Mussolini, son of a blacksmith and qualified as an elementary school master, in the end became a journalist with socialist views. A forceful speaker, Mussolini began to support the use of violence and broke with the socialists when they opposed Italy's entry into the War. When the Fascist Party was founded in 1919 Mussolini immediately joined it. As Fascists stood for authority, strength and discipline, support came from industrialists, nationalists, ex-soldiers, the middle classes and discontented youth. The Fascists resorted to violence freely. In October 1922, in the context of a long ministerial crisis, Mussolini organised the Fascist March on Rome. Impressed by the show of force, the King invited Mussolini to form a government. The inability of the Democratic Party leaders to combine and act with resolution facilitated Mussolini's triumph.
+**(c) Yuan Shih-kai and After**
 
-Fascism is a form of radical authoritarian ultra-nationalism, characterised by dictatorial power, forcible suppression of opposition and strong regimentation of society and of the economy, which came to prominence in early 20th-century Europe. –Wikipedia.
+The unity of China under Yuan Shih-kai lasted for four years. On his death in 1916 a new President was appointed for the next twelve years but the government was central only in name.
 
-**Fascists under Mussolini**
+![*Yuan Shih-kai*](assets/page_002_picture_005.png)
 
-In the 1924 elections, after intimidation of the electors, 65 per cent of the votes were cast for the Fascists. Matteotti, a socialist leader, who questioned the fairness of the elections was
+**(d) Communist Party of China**
 
-![*Mussolini*](assets/page_002_picture_004.png)
+With the Revolution and the breakup of the old society, Confucian thought was generally side-lined and after the Russian Revolution of 1917, the ideas of Marx and Lenin became popular among intellectuals. In 1918 a Society for the Study of Marxism was formed in Peking University. Among the students who attended was Mao Tse-tung.
 
-murdered. The opposition parties boycotted the Parliament in protest. Mussolini reacted by banning opposition parties and censoring the press. Opposition leaders were killed or imprisoned. Assuming the title of Il Duce (the leader), in 1926 he became a dictator with power to legislate. He passed a law forbidding strikes and lockouts. Unions and employers were organized into corporations. In 1938 Parliament was abolished and was replaced by a body representing the Fascist Party and the corporations. This new arrangement bolstered Mussolini's dictatorial control of the economy, as well as enabling him to wield enormous power as head of the administration and the armed forces.
+![](assets/page_002_picture_006.png)
 
-**Mussolini's Pact with Pope**
+Mao Tse-tung (1893–1976)
 
-In order to give respectability to the Fascist Party, Mussolini won over the Roman Catholic Church by recognising the Vatican City as an independent state. In return the Church recognised the Kingdom of Italy. The Roman Catholic faith was made the religion of Italy and compulsory religious teaching in school was ordered. T﻿he Lateran Treaty incorporating the said provisions was signed in 1929.
+Mao was born in Hunan in south-east China. His father was a wealthy peasant, and a firm supporter of the Manchus. Mao, who
 
-**Italy during the Great Depression**
+was very fond of reading, soon showed his ability and entered the Junior College at Changsha. This was the year (1911) when the Revolution had broken out in China. Mao joined the revolutionary army but soon left and enrolled in the Teachers' Training College in Changsha.In the following year Mao began his full-fledged political activities of Hunan and emerged as a staunch Communist.
 
-During the years of the Great Depression the much publicised public works of building new bridges, roads and canals, hospitals and schools did not provide solution to the unemployment problem. In 1935, Mussolini invaded Ethiopia. This was useful to divert attention of the people away from the economic troubles.
+The World After World War II
 
-**(b) Germany in the post-War**
+**Kuomintang and Chiang Kai Shek**
 
-From 1918 to 1933 Germany was a republic. The factors which led to the eventual triumph of Fascism in Germany were many. Between 1871 and 1914 Germany had risen to dizzy heights of economic, political and cultural accomplishments. Germany's universities, its science, philosophy and music were known all over the world. Germany had surpassed even Britain and the US in several fields of industrial production.
+After the death of Sun Yat Sen, the leader of the Kuomintang was Chiang Kai-shek. While the Communist Party was under Mao Tse Tung and Chou En Lai. As an avowed critic of Communists, Chiang removed all of them from important positions in the party. The communists increased their influence among the workers and peasants and obtained recruits for their army. The Kuomintang represented the interests of the landlords and capitalists. In 1928, he was successful in capturing Peking. Once again there was a central government in China.
 
-Germany's defeat and humiliation at the end of World War I caused a deep shock to the of German people. The Great Depression further deepened their frustration and prompted them to turn against the Republican government.
+![*Chiang Kai-shek*](assets/page_003_picture_002.png)
 
-**Evolution of German Fascism**
+![*Chou En Lai*](assets/page_003_picture_003.png)
 
-The origin of German fascism goes back to 1919 when a group of seven men met in Munich and founded the National Socialist German Workers' Party (abbreviated as Nazi Party). One of them was Adolf Hitler. During World War I, he served in the Bavarian army. A gifted speaker, he could whip up the passion of the audience. In 1923 Hitler attempted to capture power in Bavaria. His launch of the National Revolution on the outskirts of Munich landed him in prison. During his time in prison, he wrote Mein Kampf (My Struggle), an autobiographical book containing his political ideas. In the Presidential election of 1932, the Communist Party polled about 6,000,000 votes. Alarmed capitalists and property owners tilted towards supporting fascism Hitler exploited this opportunity to usurp powers.
+**Mao as Organizer of Peasants**
 
-![*Hitler*](assets/page_003_picture_004.png)
+Mao had understood that the Kuomintang grip on the towns was very strong. So he concentrated his energies on organizing the peasantry. A few hundred Communists led by Mao retreated into the wild mountains. Here they stayed for the next seven years. As the army of Mao was gradually growing, the Kuomintang was unable to penetrate the mountains. The campaign against the communists was distracted as Chiang Kai-shek had to deal with the constant threat from Japan and also the attacks from war lords.
 
-Social Democratic Party was founded as the General German Workers Association on 23 May 1863 in Leipzig. Founder was Ferdinand Lassalle. German elites of the late 19th century considered the very existence of a socialist party a threat to the security and stability of the newly unified Reich, and so Bismark outlawed this party from 1878 to 1890.
+**The Long March 1934**
 
-However, in 1945, with the fall of Hitler, the Social Democratic Party was revived. It was the only surviving party from the Weimar period with a record of opposition to Hitler.
+As Chiang Kai-shek had built a circle of fortified posts around the communist positions, Mao wanted to move out of Hunan for safer territory. By 1933 Mao had gained full control of the Chinese Communist party. In 1934, the Communist army of about 100,000 set out on the Long March. This march has become legendary. Of the 1,00,000 who set out, only 20,000 finally reached
 
-**The Nazi State of Hitler**
+The World After World War II
 
-Republican government fell, as the Communists refused to collaborate with the Social Democrats. Thereupon industrialists, bankers and Junkers prevailed upon President Von Hindenburg to designate Hitler as Chancellor in 1933. The Nazi state of Hitler, known as Third Reich, brought an end to the parliamentary democracy.
+Northern Sheni late in 1935, after crossing nearly 6,000 miles. They were soon joined by other communist armies. By 1937, Mao had become the leader of over 10 million people.
 
-Hitler replaced the flag of the Weimar republic by the swastika banners ( ) of National Socialism. Germany was converted into a highly centralised state. All political parties except the Nazi party were declared illegal. The army of brown-shirted and jack-booted storm-troopers was expanded. The Hitler Youth was created, and the Labour Front set up. Trade unions were abolished, their leaders arrested. Strikes were made illegal, wages were fixed by the government. Total state control was extended over the press, the theatre, the cinema, radio and over education.
+![*Mao's Long March*](assets/page_003_picture_006.png)
 
-T﻿he Nazi Party's propaganda was led by Josef Goebbels, who manipulated public opinion through planned propaganda. The Gestapo or Secret State Police was formed and run by Himmler.
+**Japanese Aggression**
 
-**Nazi Policy towards Jews**
+Japan continued to occupy north Chinese provinces while developing Manchuria as a military base. Mao believed that Chiang Kai-shek was necessary for some time to hold together Kuomintang to fight the Japanese. As a consequence of this pragmatic policy, the attacks on the communists gradually stopped.
 
-Along with the repressive measures, Hitler's government followed a policy of repressing Jewish people. The Jews were removed from government positions, excluded from the universities and deprived of citizenship. Jewish businesses were closed down, and their establishments were attacked. After the outbreak of World War II concentration camps, barracks surrounded by electrified fences and watch towers, were built where Jews were interred and used as forced labour. Later they were turned into extermination camps where industrial means of murder such as gas chambers were used to kill them in what the Nazis termed 'The Final Solution'.
+**Communist Victory**
 
-**Defiance of the Treaty of Versailles**
+With the surrender of the Japanese (1945), both the Kuomintang and the communists sought to occupy the Japanese areas. In this race the Kuomintang was successful. The cities and railways soon fell into their hands. Even the area around Peking was soon controlled by Chiang Kai-shek's forces, largely because of the military aid given by the USA.
 
-In August 1934 Hindenburg died and Hitler, apart from being Chancellor, became both President and Commander–in-Chief of the armed forces. Hitler's foreign policy aimed at restoring the armed strength of Germany and annulling provisions of Versailles Treaty.
+With the massive support provided by the USA Kuomintang government controlled the administration, ports and communication system. But the soldiers, mainly drawn from the peasants, were disillusioned and discontented. Mao was keen on obtaining the support of the middle class. So he declared that what the communists wanted was the rule of the people, not the dictatorship of the proletariat; the end of exploitation, not absolute equality.
 
-### 2.3 Anti-Colonial Movements and Decolonisation Processes in Asia
+**National People's Congress**
 
-**(a) French Indo-China**
+In September 1949, before fighting had ended in the south of China, the People's Political Consultative Conference met in Peking. Consisting of over 650 delegates from the Communist Party and other left-wing organizations, the conference elected the Central Governing Council with Mao as its Chairman.
 
-**Rise of Anti-Colonialism**
+The establishment of the People's Republic of China under the leadership of Mao Tse Tung was a world-shaking event. There were now two mighty Communist powers in the world —the Soviet Union and People's Republic of China.
 
-Indo-China (today's Cambodia, Laos and Vietnam) had shown its discontent right from the beginning of the French occupation (1887). While the Indo-Chinese resisted the imposition of French language and culture, they learned from them the ideas of revolution. During the First World War about 100,000 Indo-Chinese fought in France and returned with first-hand knowledge of how the French had fought and suffered during the War. Communist ideas from mainland China were also a major influence. Many became convinced that the considerable wealth of Indo-China was benefiting only the colonial power.
+**Denial of UNO Membership**
 
-Decolonisation is a process through which colonial powers transferred institutional and legal control over their colonies to the indigenous nationalist governments.
+The United-States refused to recognize the People's Republic of China for more than two decades.
 
-**The Emergence of Viet Minh**
+### 4.2 Cold War: Rivalry between the US and the Soviet Union
 
-The mainstream political party in IndoChina was the Vietnam Nationalist Party. Formed in 1927, it was composed of the wealthy and middle class sections of the population. In 1929 the Vietnamese soldiers
+## 1. Truman's Policy of Containment of Communism
 
-![*Ho Chi Minh*](assets/page_004_picture_004.png)
+In 1948 the Soviets had established socialist governments in the countries of eastern Europe that had been liberated from the Nazis by the Soviet Army. Truman, the president of USA, pursued
 
-Ho Chi Minh (1890-1969) was born in Tongking. When Ho Chi Minh was twenty one, he went to Europe. After working as a cook in a London hotel, he went to Paris. In the Paris peace conference, he lobbied for the independence for Vietnam. His articles in newspapers and especially the pamphlet, French Colonialism on Trial, made him well known as a Vietnam nationalist. In 1921 he became a founder-member of the French Communist party. Two years later he went to Moscow and learnt revolutionary techniques then. In 1925, he founded the Revolutionary Youth Movement.
+![*Truman*](assets/page_004_picture_002.png)
 
-mutinied, and there was a failed attempt to assassinate the French Governor-General. This was followed by a large scale peasant revolt led by the Communists. The revolt was crushed followed by what is called "White Terror." Thousands of rebels were killed.
+a policy of containment of communism. The Soviets were however determined not only to maintain control of eastern Europe, but also keen on spreading Communism world-wide.
 
-After the White Terror, Ho Chi Minh left for Moscow and spent the 1930s in Moscow and China. When France was defeated by Germany in 1940, Ho Chi Minh and his lieutenants used this turn of events to advance the Vietnamese cause. Crossing over the border into Vietnam in January 1941, they organized the League for the Independence of Vietnam, or Viet Minh. This gave renewed emphasis to a distinct Vietnamese nationalism.
+Cold War: The rivalry that developed after World War II between the US and the USSR and their respective allies created tension which is referred to as Cold War. They did not take recourse to weapons. Instead they waged war on political, economic and ideological fronts.
 
-**(b) Decolonisation in India**
+## 2. Marshall Plan
 
-**Dyarchy in Provinces**
+The US conceived the Marshall Plan to bring the countries in western Europe under its influence. The plan sought to help the countries of Europe with American dollars to facilitate their early recovery from the destruction caused by the Second World War.
 
-The decolonization process started in India from the beginning of the twentieth century with the launch of the Swadeshi Movement in 1905. The outbreak of the First World War brought about rapid political as well as economic changes. In 1919, the Government of India Act introduced Dyarchy that provided for elected provincial assemblies as well as for Indian ministers to hold certain portfolios under Transferred Subjects. The Indian National Congress rejected Dyarchy and decided to boycott the legislature.
+![*Marshall*](assets/page_004_picture_005.png)
 
-**Lack of Measures to Industrialise India**
+The United States was much concerned that poverty, unemployment, and dislocation caused by the post-World War II period were increasing the appeal of communist parties in western Europe. The Secretary of State,
 
-Despite the discriminating protection given to certain select industries such as sugar, cement, and chemicals, there was no change in the colonial economic policy. But in the case of indigenous industries, support was only in
+George C. Marshall, advanced the idea of a European self-help programme to be financed by the United States. Sixteen nations, became part of this programme and benefited. Administrative and technical assistance was offered through the Economic Cooperation Administration (ECA) of the United States. Marshall Plan funding ended in 1951.
 
-the form of providing "technical advice and education, and the establishment of pioneer factories in new industries". However, even this policy was soon abandoned as many British enterprises were opposed to this .
+### 4.3 Formation of Military Alliances
 
-**Impact of Depression on Indian Agriculture**
+**(a) NATO**
 
-The 'Great Depression' (1929) also dealt a death blow to Indian agriculture and the indigenous manufacturing sector. The value of farm produce, declined by half while the land rent to be paid by the peasant remained unchanged. In terms of prices of agricultural commodities, the obligation of the farmers to the state doubled. The great fall in prices prompted Indian nationalists to demand protection for the internal economy. The 1930s saw the emergence of the Indian National Congress as a militant mass movement.
+The United States and its European allies formed the North Atlantic Treaty Organization (NATO) to resist Soviet aggression in Europe (1949). It was an inter-state military alliance between the countries of North America and Europe. The major member countries included Canada, Belgium, Denmark, France, Iceland, Italy, Luxemburg, the Netherlands, Norway, Portugal and the United Kingdom. Later Greece and Turkey joined the organization (1952). Germany joined the NATO in 1955. The chief objective of NATO was the peace and security in the North Atlantic region.
 
-**Government of India Act, 1935**
+**(b) SEATO or Manila Pact**
 
-The British had to appease the Indian nationalists and the outcome was the passage of the Government of India Act, 1935. This provided for greater power to the local governments and the introduction of direct elections. In the 1937, elections the Congress won a resounding victory in most of the provinces. However the decision of Britain to involve India in the Second World War, without consulting the popular Congress ministries, forced the latter to resign from office.
+The Southeast Asia Treaty Organization (SEATO) was organized for the collective security of countries in Southeast Asia. Following the signing of the Manila Pact (1954) by the US, France, England, New Zealand, Australia, the Philippines, Thailand and Pakistan. Member
 
-### 2.4 Anti-Colonial Movements in Africa
+The World After World War II
 
-**Colonisation of Africa**
+countries of SEATO were committed to prevent communism from gaining ground in the region. Unlike the NATO alliance, SEATO had no joint commands with standing forces.
 
-The African coastline had been explored in the sixteenth century and a few European settlements had come about. But the interior of
+**(c) Warsaw Pact**
 
-20
+As a counter to the NATO, Soviet Union organized the Soviet-bloc countries for a united military action, under the Warsaw Pact. In December 1954, a conference of eight European nations namely, Albania, Bulgaria, Hungary, Czechoslovakia, East Germany, Poland, Romania and Russia took place in Moscow. They concluded the treaty on May 14, 1955. This is known as the Warsaw pact. A joint command of armed forces of the member countries with its headquarters in Moscow was setup. The Warsaw Pact was dissolved in 1991 following the break-up of USSR.
 
-Africa was unknown to the outside world until the last quarter of nineteenth century. European colonisation began after about 1875. The Berlin Colonial Conference of 1884–85 resolved that Africa should be divided into spheres of influence of various colonial powers. The war between the British and Boers in South Africa, however, was in defiance of this resolution.
+**(d) CENTO or the Baghdad Pact**
 
-**Boer Wars**
+In 1955 Turkey, Iraq, Great Britain, Pakistan and Iran signed a pact known as Baghdad Pact. In 1958 the United States joined the organisation and thereafter it came to be known as the Central Treaty Organization. This treaty was open to any Arab nation desiring peace and security in the region. CENTO was dissolved in 1979.
 
-The relations between the two British colonies of Natal and Cape Colony and the two independent Boer states of the Transvaal and the Orange Free State had long been unfriendly. The discovery of gold in Transvaal, in 1886, led to large numbers of British miners settling in and around Johannesburg. The Boers hated these people whom they referred to as Uitlanders (foreigners). The Boers taxed them heavily apart from denying political rights. So the question was whether the British or the Boers were to be supreme in South Africa. Fearing attacks from the British, the Boers armed themselves and decided to attack.
+### 4.4 Korean War
 
-The Boer War lasted for three years, 18991902. Initially, the Boers were successful. But by the first half of 1900, the Boer army was defeated. Pretoria was occupied. The Boers took to guerrilla fighting. This continued for about two years. In retaliation the British destroyed farms and crops. They set up internment camps for Boer women and children. Shortage of food, medical and sanitary facilities caused the death of 26,000 people. The British annexed the two Boer states. Boers were however promised self-government in due course. In 1907, full responsible government was given to the Transvaal and the Orange Free State. The four states formed into a union and the South Africa Act passed by the British parliament in 1909 provided for a Union Parliament at Cape Town. The Union of South Africa came into being in May 1910.
+The Korean War made the Cold War really hot. Since Korea was partitioned as North and South (1945), each side sought to win legitimacy by unifying the country. The President of North Korea Kim II (People's Republic of Korea) decided to act before his southern rival, Syngman Rhee (the Republic of Korea), got the chance. He launched an attack in June 1950, with the tacit support of Stalin. Both Kim and Stalin did not expect the US to intervene. The war lasted for three years. The human cost was enormous. But the Korean people gained nothing.
 
-![*Boer War*](assets/page_006_picture_002.png)
+**Third World Countries**
 
-The descendents of original Dutch settlers of South Africa, also known as Afrikaners, were called Boers. Their language is Afrikaans.
+The capitalist countries led by the U.S. were politically designated as the First World, while
 
-**Nationalist Politics in South Africa**
+The World After World War II
 
-There were two main political parties: the Unionist Party which was mainly British, and the South Africa Party which had largely Afrikaners (Boers). The first Prime Minister, Botha belonged to the South Africa Party ruled in cooperation with the British. But a militant section of the South Africa Party formed the National Party under Herzog. In the 1920 elections the National Party gained fortyfour seats. The South Africa Party, now led by
+the communist states led by the Soviet Union came to be known as the Second World. States outside these two were called Third World.
 
-Smuts, secured forty-one seats. At this juncture the British-dominated Unionist Party merged with the South Africa Party. This gave Smuts a majority over the militant Af rikaner-controlled National Party.
+### 4.5 Non-Aligned Movement
 
-![*Smuts*](assets/page_006_picture_005.png)
+The Non-Aligned Movement (NAM) emerged in the wake of decolonization that followed World War II. At the Bandung (a city in Indonesia) conference (1955), the newly independent countries of Asia and Africa gave a call for abstaining from allying with any of the two Super Powers. It also pledged to fight all forms of colonialism and imperialism.
 
-**Racist Policy against the Blacks**
+The NAM held its first conference at Belgrade in 1961, under the leadership of Tito (Yugoslavia), Nasser (Egypt), Nehru (India), Nkrumah (Ghana) and Sukarno (Indonesia). The basic principles of non-aligned, as listed in the statement issued at the Belgrade (a Serbian city, then part of Yugoslavia) Conference, were: peaceful co-existence, commitment to peace and security, no military alliance with any super power, no permission for any super power to build its military base in its territories. With the collapse of Soviet Union, the idea of non-aligned lost relevance.
 
-The Afrikaners pursued a harsher, racist policy towards the blacks and the minority Indians. In 1923, an Act was passed to confine the native residents to certain parts of towns. Already an Act of 1913 had segregated black and white farmers, which made it impossible for the blacks to acquire land in most parts of the country. The 1924 elections were won by the National Party with the support of the Labour movement, composed mainly of white miners. The
+![*The first conference at Belgrade*](assets/page_005_picture_004.png)
 
-Act passed in 1924 prevented blacks from striking work and from joining trade unions. In the Cape Province the voting right to blacks was abolished. Native Blacks suffered in all spheres: social, economic and politics.
+### 4.6 The Cuban Revolution
 
-**Apartheid in South Africa**
+The United States had its satellite states in Central America (Honduras, El Salvador, Nicaragua, Panama and Guatemala), the Caribbean (Cuba, the Dominion Republic and Haiti) and east Asia (the Philippines, South Korea, South Vietnam and Thailand). These states were governed by ruling groups made up of military personnel, landed gentry and occasionally of local capitalists.
 
-Apartheid, which means separateness, became the racial policy of the Nationalist Party in 1947. From 1950 onwards a series of laws came to be enforced. The whole country was divided
+![*Fidel Castro*](assets/page_005_picture_005.png)
 
-![*Nelson Mandela*](assets/page_007_picture_002.png)
+After Castro took power, the US-owned oil refineries on the island refused to process Russian oil. Castro nationalized them. The US retaliated by ending the arrangement by which it bought the bulk of Cuba's sugar. Castro nationalized the US-owned sugar companies and ended the US monopolies in electricity and telephones. All these gravely threatened American economic interests.
 
-into separate areas for the different races. Marriage between white and non-white was forbidden. Nearly all schools were brought under government control so that education different from that of the Whites could be implemented for Africans. University education was also segregated. Apartheid is based on the belief that the political equality of White and Black in South Africa would mean Black rule. The ANC which fought the practice of racism was banned and its leader Nelson Mandela was put behind bars. Mounting pressure at the global level helped to end the racist regime in South Africa. In 1990 the ban on ANC was lifted and Mandela freed after 27 years. In the elections held subsequently the Africans were allowed to vote and ANC won the election and Mandela
+**Cuban Missile Crisis**
 
-became the first black president of South Africa. Even though apartheid was dismantled the Whites completely dominate the economic sphere.
+In April 1961, while landing an army of Cuban exiles on the island of Bay of Pigs, the US bombed Cuban airfields with the objective of overthrowing Castro's regime. US warships surrounded Cuba. The Kennedy government had received intelligence that the USSR was secretly installing nuclear missiles in Cuba. Finally, the Soviet President Khrushchev agreed to withdraw the missiles and thus the Missile Crisis was defused.
 
-![](assets/page_007_picture_003.png)
+Eventually the two sides reached an agreement. The Soviet Union removed the missiles from Cuba on an understanding that the US would never invade Cuba again.
 
-### 2.5 Political Developments in South America
+### 4.7 Arab-Israeli War
 
-**Mayas and Aztecs**
+The Treaty of Versailles (1919) had provided for mandates in Turkish Arab Empire. France was given the mandate for Syria and Lebanon, and Britain for Iraq, Palestine and Jordan. This arrangement upset the Arabs since they had expected independence at the end of World War I. Britain's promise to Zionist leaders that it would allocate one of the Arab lands, Palestine, to Jewish settlers from Europe further embittered the Arabs. There was growing Arab antagonism towards Zionist settlers, as they bought land from rich Arabs and evicted the local peasant families who had been cultivating it for centuries.
 
-Before the European discovery of America three centres of civilisations existed there in
+At the end of October 1945, the Jewish underground organizations like Irgun Zvai Leumi (Zionist Para-military Organization) and the Stern Gang (Zionist Terrorist Organization) began to launch terror attacks on a large scale. Railways, bridges, airfields and government offices were blown up. The British government, presented the dispute to the UN for a decision.
 
-Mexico in Central America and in Peru in South America. The Maya, the Inca and the Aztec Civilizations were highly advanced. There were several states in each of these areas of civilisation. Well organised and strong governments existed. Around the eleventh century, large cities formed into a league of Mayapan (centre of Maya civilisation of Native Americans American Indians). For over hundred years the League of Mayapan lasted. Though Mayapan was destroyed towards the close of twelth century, other cities continued. Aztecs from Mexico conquered the Maya country in the fourteenth century and founded their capital city of Tenochtitlan. For nearly two hundred years the Aztecs ruled their empire.
+Succumbing to the pressure of great powers, the UN resolved to partition the British mandate of Palestine into a Jewish state and an Arab state (29 November 1947). Clashes broke out almost immediately between Jews and Arabs in Palestine.
 
-**European Colonisation and its Impact**
+Zionist Movement: In Palestine, the ancient home of Jews, only a few thousand Jews were living in 1900. Some 15 million were scattered around Europe and North America. (This is referred to as the Diaspora.) In 1896, Thodore Herzel, a Viennese journalist, published a pamphlet called The Jewish State in which he called for the creation of a Jewish national home. Next year (1897) the World Zionist Organisation was founded.
 
-In the sixteenth century (around 1519) when the Aztecs were at the height of their power, the whole empire collapsed before a handful of adventurers led by a Spaniard named Hernan Cortes. Mexican civilisation collapsed. With
+The Israelis, won control of the main road to Jerusalem and successfully repulsed repeated Arab attacks. As a result of separate armistice agreements (1947 Feb-June) between Israel and each of the Arab states, a temporary frontier was fixed between Israel and its neighbours. In Israel, the war is remembered as its War of Independence. In the Arab world, it is treated as the Nakbah ("Catastrophe") as a large number of Arabs became refugees. Israel was admitted into the UN immediately much against the wishes of Arabs.
 
-![*Pizarro*](assets/page_007_picture_006.png)
+**Suez Canal Crisis (1956)**
 
-it the great city of Tenochtitlan also perished. This is one of the world's worst genocides. The other famous Conquistador (conqueror) was also a Spaniard by name Francisco Pizarro. who led the conquest of the Incan Empire. Later the Spaniards made Peru a part of their dominions.
+In Egypt, in a coup in 1952, Colonel Nasser became its President. In 1956, he nationalized the Suez Canal, which undermined British interests. With the failure of diplomacy, Britain and France decided to use force. Israel saw this as an opportunity to open the Gulf of Aqaba to Israeli shipping and put a stop to Egyptian border raids. On 29 October, Israeli forces invaded Egypt. Britain used this opportunity to
 
-By the late 18 th century, demand for political freedom, administrative autonomy and economic self-determination was articulated throughout Latin America. There were bloody conflicts between Haitian slaves, colonists, the armies of the British and the French colonizers. These struggles led by Toussaint L'Ouverture during 1791-1804 ended in the Haitian people's independence from the colonial control of France. Haiti thus became the first Caribbean country to throw off slavery and French colonial control.
+The World After World War II
 
-**Impact of Napoleonic Invasion of Spain and Portugal**
+demand that its troops be allowed to occupy the canal zone to protect the canal. Egypt refused and on 31 October, Britain and France bombed Egyptian airfields and other installations as well as the Suez Canal area. However, under pressure of world opinion, Britain and France ended hostilities on 6 November. India represented by Nehru played a crucial role in resolving the crisis.
 
-![*Simon Bolivar-*](assets/page_008_picture_002.png)
+![*Suez Canal crisis*](assets/page_007_picture_002.png)
 
-![*Pedro I*](assets/page_008_picture_003.png)
+**Arab–Israeli War 1967**
 
-The American and French Revolutions provided inspiration to the Latin Americans. The Napoleonic invasion of Spain and Portugal in 1808 quickened the process of liberation Struggle in South America. Already the spirit of independence was growing under the leadership of Simon Bolivar, called El Liberator, the liberator. In the case of Brazil, the Portuguese royal family in the context of conquest of Portugal by Napoleon fled from Lisbon and thereby assisted the transition of Brazil from colony to independent nation. Pedro I renouncing the claim to the Portuguese throne declared independence of Brazil.
+Ever since the formation of the Palestinian Liberation Organization (PLO), Israel came to be attacked frequently by Palestinian guerrilla groups based in Syria, Lebanon and Jordan. Israeli resorted to violent reprisals. In November 1966, an Israeli strike on the village of Al-Samū in the Jordanian West Bank, left 18 dead and 54 wounded. Israel's air battle with Syria in April 1967, ended in the shooting down six Syrian MiG fighter jets. In his bid to demonstrate Egypt's support for Syria Nasser mobilized Egyptian forces in the Sinai, seeking the removal of UN emergency forces stationed there on May 18. On May 22, he closed the Gulf of Aqaba to Israeli shipping. King Hussein of Jordan signed a mutual defence pact with
 
-![](assets/page_008_picture_004.png)
+Palestine Liberation Organization (PLO)- It is an umbrella political organization representing the world's Palestinians – all Arabs and their descendants who lived in mandated Palestine before the creation of the State of Israel in 1948. It was formed in 1964 to federate various Palestinian groups that previously had operated as clandestine resistance movements. Yasser Arafat was its most prominent leader.
 
-**The Monroe Doctrine**
+The World After World War II
 
-The fight for independence intensified when Napoleon fell in 1815. But Monroe, the President of the USA, came up with his famous Monroe doctrine, which declared that if Europeans interfered anywhere in America, north or south, it would amount to waging a war against the United States. This threat frightened the European powers. By 1830 the whole of South America was free from European domination. Thus the U.S. protected the South American republics from Europe; but there was no one to protect them from the Protector, the United States.
+Egypt. Accordingly, it was decided to place Jordanian forces under Egyptian command. Soon, Iraq too joined the alliance.
 
-**Disunity among Latin American Nationalists**
+**Israel's Offensive**
 
-Latin American nationalists fought not only Spain and Portugal but also each other. In 1821 Central America seceded from Mexico. Later (1839) Central America itself split into five republics (Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua). Uruguay split from Brazil in 1828. In 1830 Venezuela and Ecuador seceded from Gran Columbia, the republic created by Bolivar.
+Following the mobilization of Arab states by Nasser, on June 5, Israel staged a sudden pre-emptive air strike that destroyed more than 90 percent of Egypt's air force on the tarmac. A similar air assault incapacitated the Syrian air force. Within three days the Israelis had achieved an overwhelming victory on the ground, capturing the Gaza Strip and all of the Sinai Peninsula up to the east bank of the Suez Canal.
 
-![*Latin America*](assets/page_008_picture_005.png)
+![](assets/page_007_picture_005.png)
 
-![](assets/page_008_picture_006.png)
+**Yasser Arafat (1924–2004)**
 
-23
+In 1969, Yasser Arafat became chairman of the PLO's executive committee a position he held until his death in 2004. Yasser Arafat was appointed commander-
 
-The World between Two World Wars
+in-chief of the all Palestinian Arab guerilla forces in September 1970. Wearing a disguised pistol and carrying an olive branch and dressed in a military uniform, his appearance raised world awareness of the Palestinian cause. Arafat was elected by the central council of the PLO as the first president of the state of Palestine on April 2, 1989.
 
-**US Imperial Interests**
+**Arab–Israeli War 1973**
 
-At the dawn of the twentieth century the United States had occupied Cuba and Puerto Rico, after defeating the Spanish in 1898. From 1898 to 1902 Cuba was under US military rule. When the Americans finally left they retained a naval station in
+Egypt and Syria under Presidents Anwar Sadat and Hafez alAssad respectively concluded a secret agreement in January 1973 to bring their armies
 
-![*Theodore Roosevelt*](assets/page_009_picture_002.png)
+![*Anwar Sadat and Hafez al-Assad*](assets/page_007_picture_006.png)
 
-Cuba. President of the USA Theodore Roosevelt made an important amendment to the doctrine in 1904. It authorised US intervention in Latin America 'in order to maintain order.' After effecting this amendment, the US became the dominant influence not only politically but also in economics.
+under one command. Sadat offered the Israelis a peace deal, if they withdrew from Sinai. Israel rejected the offer. Egypt and Syria launched a sudden and surprise attack on the Yom Kippur religious holiday (6 October 1973). Though Israel suffered heavy casualties it finally pushed back the Arab forces. Arabs gained nothing out of this war too. By way of mediation the US succeeded in asserting its hegemony over the region and its oil.
 
-**Great Depression in South America**
+### 4.8 Vietnam War
 
-The situation created by the Great Depression made it impossible for oligarchic
+By the end of Second World War, Viet Minh controlled the northern half of Vietnam. Viet Minh formed a government led by Ho Chi Minh in Hanoi. This Viet Minh government quickly occupied the southern half of Vietnam. However, the Allied Powers decided at Potsdam that the British in the south and the Chinese in the north should defend Indo-China from the Japanese. But Ho Chi Minh had established his control very firmly and so, early in 1946, the British and Chinese troops had to withdraw, leaving the French and Viet Minh to confront each other. In March the two governments (French and Viet Minh) reached an agreement by which North Vietnam was to be a free state, within an Indo-Chinese Federation.
+
+In 1949 the French attempted to secure the support of the population by declaring Vietnam, Laos and Cambodia independent within the French Union, retaining only foreign affairs and defence under French control.
+
+While the French were receiving considerable financial aid from America, the Viet Minh were helped by the new Chinese communist government. The French troops were eventually defeated. The Geneva Conference (1954) that met in Korea and Indo China decided that Vietnam was to be an independent state but temporarily divided; the Viet Minh to control the north and Bao Dai to head the government the south. Cambodia and Laos were to be independent.
+
+With a population of 16 million, North Vietnam became a Communist state with Ho Chi Minh as President. South Vietnam, approximately of the same size and population, was ruled by Ngo Dinh Diem.
+
+The government's survival in South Vietnam depended on increasing amounts of US support. In 1965 marines landed at Danang naval base, and there were 33,500 US troops in the country within a month. The number increased and there were 2,10,000 by the end of year. The US bombed both North and South in the hope that it could force the liberation forces to abandon the struggle. The fighters of North Vietnam, trained in guerrilla warfare, had grown out of spontaneous struggles against a repressive regime. They sustained their resistance without bowing to the US. The American troops also used bacteriological weapons. Incendiary bombs such as napalm and Agent Orange (to defoliate the forest cover) were used. Vast areas of Vietnam were devastated and hundreds of thousands of people killed. The American forces too suffered heavy casualties.
+
+![*American Bombing of North Vietnam*](assets/page_008_picture_004.png)
+
+Early in 1975, the war took a decisive turn. The armies of North Vietnam and of the National Liberation Front of South Vietnam swept across the country routing the American supported troops of South Vietnam. By 30 April 1975, all the American troops had withdrawn and the capital of South Vietnam, Saigon, was
+
+liberated. North and South Vietnam were formally united as one country in 1976. The city of Saigon was renamed as
+
+![](assets/page_008_picture_005.png)
+
+Ho Chi-Minh City after the great leader of the Vietnamese people. Ho Chin Minh City (Saigon)
+
+The World After World War II
+
+The emergence of Vietnam as a united and independent nation was an historic event. A small country had succeeded in winning independence and unification in the face of the armed opposition of the greatest power in the world. The help given to Vietnam by the socialist countries, the political support extended by a large number of Asian and African countries, and the solidarity expressed by the peoples in all parts of the world, helped in achieving this.
+
+### 4.9 Towards European Union
+
+**(a) Council of Europe**
+
+One of the momentous decisions taken in the post-World War II era was to integrate the states of Western Europe. In doing so the Europeans wanted (1) to prevent further European wars by ending the rivalry between France and Germany. (2) to create a united Europe to resist any threat from Soviet Russia. (3) to form a third force in the world to counterbalance the strength of the US and USSR. (4) to make full use of the economic and military resources of Europe by organizing them on a continental scale. In May 1949, ten countries met in London and signed to form a Council of Europe. The Council of Europe with headquarters at Strasbourg was established with a committee of foreign ministers of member countries and a Consultative Assembly, drawn from the parliaments of foreign countries.
+
+**(b) European Coal and Steel Community (ECSC)**
+
+The European Defence Community (EDC) and the European Coal and Steel Community (ECSC) were established. Six countries (France, West Germany, Italy, Belgium, Holland and Luxemburg belonging to ECSC signed the treaty of Rome which established the European Economic Community (EEC) or the European Common Market, with headquarters at Brussels.
+
+**(c) European Economic Community (EEC)**
+
+The EEC eliminated barriers to the movement of goods, services, capital, and labour. It also prohibited public policies or
+
+The World After World War II
+
+private agreements that restricted market competition. A common agricultural policy (CAP) and a common external trade policy were evolved. European Common market was a remarkable success.
+
+**(d) Single European Act (SEA)**
+
+The Single European Act came into force on July 1, 1987. It significantly expanded the EEC's scope giving the meetings of the EPC a legal basis. It also called for more intensive coordination of foreign policy among member countries. According to the SEA, each member was given multiple votes, depending on the country's population. Approval of legislation required roughly two-thirds of the votes of all members.
+
+**(e) European Union (EU)**
+
+The Maastricht (Netherlands) Treaty signed on February 7, 1992, created the European Union. The monetary policy and a common currency (euro) to replace national currencies managed by common monetary institutions were subsequently planned and implemented. Today the European Union has 28 member states, and functions from its headquarters at Brussels, Belgium.
+
+### 4.10 Fall of Berlin Wall and End of Cold War Era
+
+The division of Germany into West (Federal Republic of Germany) and East (German Democratic Republic) led to glaring differences in living standards. West
+
+![](assets/page_009_picture_004.png)
+
+Berlin's economy became prosperous thanks to the support received from the West under the Marshall Plan. In contrast the USSR had a little interest in developing the economy of East Berlin. Further, people in East Berlin suffered from lack of democracy and freedom. Therefore, people of East Berlin moved to West Berlin in large numbers. In West Berlin, on the other hand, there was a fear that the Soviets could use military force to take West Berlin. In this context, East Germany began to construct a wall in 1961 which virtually cut off West Berlin from East Berlin and the surrounding East German areas. It was heavily guarded with watch towers and other lethal impediments to stop people from the East. In the late 1980s, as USSR's hold over Eastern European countries was weakening, a mass of people assembled on 9 November 1989 on both sides of the wall and began to demolish it. Germany was officially reunited on 3 October 1990. The Berlin Wall was more than just a physical barrier. It was a symbolic boundary between communism and capitalism. With the fall of the Berlin Wall, followed by the collapse of the Soviet Union, the Cold War era came to an end.
+
+![*Demolition of Berlin wall*](assets/page_010_picture_002.png)
+
+Helmut Kohl, Chancellor of West Germany from 1982 to 1990, and played a crucial role in integrating East Germany into West Germany in 1990. He thus became the first chancellor of a unified Germany after forty five years of division. With French president Mitterand, Kohl was the architect of the Maastricht Treaty, which established the European Union (EU) and the euro currency.
+
+**Disintegration of the Soviet Union**
+
+In the 1970s and early 1980s the Soviet Union continued to retain a strong and dominant position in international politics. However, its economy was suffering, and was unable to match the productive capacity of the First World. In 1985, Mikhail Gorbachev took over as head of the USSR. Gorbachev spoke about the need for openness (Glasnost) and reform (perestroika). But his commitment to reform, apart from opposition within the ruling communist party, did not match the resources available to USSR. In the middle of the 1980s about one third of the total GDP was going to the military. In order to maintain a parity with the US, in the context of President Reagan's Star Wars programme, it became necessary for the Soviet Union to allocate more funds to the military. The increase in military budget further strained the Soviet economy.
+
+The year 1988 saw the first mass protests –first in Armenia, and then in the Baltic States. Earlier Soviet regimes had used severe repression to quell such uprisings. Gorbachev could not take recourse to such brutal measures. The Chernobyl Disaster, a major accident in a nuclear plant in Ukraine, in 1986, was another blow. Gorbachev made moves to stabilise his position by reliance on conservative forces in 1989 and 1991. But on each occasion he was interrupted by massive miners' strike which came close to cripple the country's energy supplies.
+
+The East European communist states, under the Soviet umbrella, were also in a deep economic and social crisis. Gorbachev's decision to loosen the Soviet control on the countries of Eastern Europe created an independent, democratic momentum. A series of workers' strikes undermined the communist regimes first in Poland and then in Hungary. A wave of demonstrations that swept East Germany
+
+Perestroika ('restructuring') refers to the programme introduced by Mikhail Gorbachev in the late 1980s to restructure Soviet economic and political system. Along with the policy of 'Glasnost' ('openness), Perestroika was intended to energize Soviet economy which was lagging behind the developed countries of the capitalist world.
+
+Glasnost ('openness') was a policy of ideologically openness introduced by Mikhail Gorbachev along with Perestroika in the 1980s. Under Glasnost there was more openness, writers who had been censored earlier were rehabilitated, and there was space for criticism of politics and government.
+
+The World After World War II
+
+Yeltsin was first an ally of Gorbachev. However, as Mayor of Moscow, Yeltsin won great popularity as a champion of political and economic freedom. With Gorbachev's introduction of democratic elections for the Soviet parliament, Yeltsin was returned to power with overwhelming support of a Moscow constituency in 1989. The following year he was elected as the President of Russia over Gorbachev's objections. President Yeltsin advocated greater autonomy of the Russian Republic, with executive presidential system that would allow him to govern independently of parliament.
+
+led to demolition of the Berlin Wall in 1989. Subsequent to it, regimes in Czechoslovakia, followed by Bulgaria, fell. An attempt by Romania's Nicolae Ceaușescu to resist the wave of change by shooting down demonstrators ended in his execution by a firing squad (December 1989) under the command of his own generals. The televised images of the shooting and the fall of the Berlin Wall galvanized the process of the breaking up of the communist world. In six months the political map of half of Europe had been redrawn.
+
+Gorbachev made a last attempt to take a hard line against the disruptionist only to be challenged by a second great miners' strike in 1991and huge demonstrations in Moscow. In response, conservative forces in his government attempted to take a hard line without Gorbachev. They used troops in Moscow to stage a coup,
 
 **SUMMARY**
 
-- Intensification of anti-colonial struggles commenced from the end of the First World War
-- The harsh decisions in the Paris Peace Conference against the defeated countries destabilised the ruling regimes and created a climate for the rise of fascism especially in Italy and Germany.
-- The economic slump originating in the US in 1929 and subsequently affecting all capitalist countries in the world resulted in changes in polity and society.
-- Decolonisation process was quickened during the inter-war period in India.
-- The Munroe Doctrine prevented colonisation of Latin American countries by European powers and thereby ensured early sovereign status to them. Later this was regarded by Latin Americans as a cover for American intervention and exploitation of the resources of their countries.
+- The history of China becoming a Communist country in the aftermath of Second War is narrated with the portrayal of developments there after the revolution of 1911.
+- Rivalry between the US and the USSR, leading to the division of world into two military blocs and the significance of NATO and Warsaw Pact, are highlighted.
+- Cold War developments are illustrated with cases of Korean War, Cuban Missile Crisis, Arab-Israeli Wars and Vietnam War.
+- Launch of Non-Aligned Movement, representing the view-points of Third World countries, is described.
+- Establishment of Council of Europe to act independently of the influence of USA that later developed into European Common Market and into European Union today is explained. 04_History_Unit_4_EM.indd 5004_History_Unit_4_EM.indd 50 1/20/2025 3:45:52 PM1/20/2025 3:45:52 PM 51 The World After World War II I Choose the correct answer 1. Which American President followed the policy of containment of Communism?. a) Woodrow Wilson b) Truman c) Theodore Roosevelt d) Franklin Roosevelt 2. When was People’s Political Consultative Conference held in China? a) September 1959 b) September 1948 c) September 1954 d) September 1949 3. The United States and European allies formed to resist any Soviet aggression in Europe. a) SEATO b) NATO c) CENTO d) Warsaw Pact 4. Who became the Chairman of the PLO’s Executive Committee in 1969? a) Hafez al-Assad b) Y asser Arafat c) Nasser d) Saddam Hussein 5. When was North and South Vietnam united? a) 1975 b) 1976 c) 1973 d) 1974 6. When was the Warsaw Pact dissolved? a) 1979 b) 1989 c) 1990 d) 1991 II Fill in the blanks 1. was known as the “Father of modern China” . 2. In 1918, the society for the study of Marxism was formed in University. 3. After the death of Dr. Sun Y at Sen, the leader of the Kuomintang party was . 4. treaty is open to any Arab nation desiring peace and security in the region. 5. The treaty of provided for mandates in Turkish -Arab Empire. 6. Germany joined the NATO in . 7. was the Headquarters of the Council of Europe. 8. treaty signed on February 7, 1992 created the European Union.
 
 **GLOSSARY**
 
-Latin America protested American intervension and disliked their "dollar imperialism". The opposition to political intervention produced a change in US policy after 1933. Franklin D. Roosevelt in his "Good Neighbour" policy agreed that the US would not intervene in the internal affairs of any state, and would give economic and technical assistance to Latin America.
-
-Dollar Imperialism, the term used to describe the policy of the USA in maintaining and dominating over distant lands through economic aid.
-
 |  |  |  |
 | --- | --- | --- |
-| solidarity | a bond of unity, support for a common caus | ஒற்றுமை உணர்வு, பொதுக்காரியத்திற்கான ஆதரவு |
-| slump | a sudden severe or prolonged fall in the price | விலைவீழ்ச்சி, சரிவு |
-| bankruptcy | insolvency, financial ruin | திவால், கடன் தீர்க்க முடியா நிலை |
-| devaluation | a decrease in the value of a country's currency | பணமதிப்புக் குறைதல் |
-| intimidation | threat, the act of making fearful | மிரட்டல், அச்சுறுத்தல் |
-
-regimes to accommodate the rising expectations of several assertive groups. In Mexico, there was violent social protest involving dissatisfied segments of the oligarchy, middle-class intellectuals, and peasant communities. Elsewhere electoral reform enabled newer social groups to obtain political power through the ballot box.
-
-![](assets/page_010_picture_004.png)
-
-|  |  |  |
-| --- | --- | --- |
-| bolstered | strengthened | வலுப்படுத்தினர் |
-| demoralized | having lost confidence or hope, disheartened | மனத்தளர்ச்சி அடைதல், நம்பிக்கை இழத்தல் |
-| manipulate | control or influence a person or situation cleverly, unfairly to achieve a specific purpose | கெட்டிக்காரத்தனமாய் அல்லது சூழ்ச்சியாய் கையாளு |
-| annulling | declaring invalid or null and void | செல்லலாதாக்கல், ரத்துசெய்தல் |
-
-![](assets/page_010_picture_005.png)
-
-![](assets/page_010_picture_006.png)
+| antagonistic | acting against or indicating | பகையுணர்வு கொ ண்ட |
+| wriggle out | to avoid doing something | நழுவுதல் |
+| ascension | the act of rising to an important position or a higher level, a movement upward | வளர்ச்சி, உயர்வு |
+| disillusioned | disappointed on finding out something is not as good as hoped | அதிருப்தி |
+| abstaining | restrain oneself from doing something | விலகியிருத்தல், ஒதுங்கியிருத்தல் |
+| embitter | cause to feel bitter – to make hateful | வெறுப்புணர்ச்சி, கசப்புணர்வு |
+| incapacitated | lacking in or deprived of strength or power | திறனற்றதாக்குதல், முடமாக்குதல் |
+| Photo by M. Helmings - Contrast Photography - Courtesy of Photo Products Inc. Photo by M. Helmings - Contrast Photography - Courtesy of Photo Products Inc. | the use of harmful bacteria as a weapon | நுண்ணுயிரியல் ஆயுதங்கள் |
