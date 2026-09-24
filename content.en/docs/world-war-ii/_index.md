@@ -6,11 +6,26 @@ weight: 3
 summary: "The causes, major events and consequences of the Second World War, including the rise of the Axis powers and the Allied victory."
 ---
 
-# Chapter 3
+**Unit - 3**
 
-# **World War II**
+**World War II**
+
+![](assets/page_001_picture_002.png)
 
 **Learning Objectives**
+
+- To acquaint ourselves about the political and economic developments after World War I which ultimately led to World War II
+- To understand the course of the War, in general; in particular, to learn the main events which were turning points in the War
+- To know the effects of World War II
+- To understand the "holocaust", and the mass killing of Jews in Nazi
+
+![](assets/page_001_picture_004.png)
+
+![](assets/page_001_picture_005.png)
+
+![](assets/page_001_picture_006.png)
+
+- To acquire knowledge about the international organisations established after the World War II.
 
 **Introduction**
 
@@ -53,6 +68,8 @@ Italy's break with Britain and France in the wake of Mussolini's invasion of Eth
 There were also acts of aggression by Italy and Japan. Italy invaded Ethiopia in 1935 and Albania in 1939. Emperor Haile Selassie of Ethiopia appealed to the League of Nations, but got no help. In the East, Japan was pursuing its policy of military expansion. In 1931, Japan invaded Manchuria, and in 1937 it invaded China and seized Beijing. All these were ignored by the Allies and the League of Nations was unable to take any action.
 
 In spite of all these manifestations of military activity by Germany, Italy and Japan, Britain and France continued to be noninterventionist. The mood in Britain was not in favour of starting another war. Prime Ministers Baldwin and Chamberlain did not feel justified in intervening in a region which was not officially in their sphere of interest. The United States was totally indifferent to the outside world, and was concerned with the revival of the economy after the Great Depression.
+
+![](assets/page_003_picture_003.png)
 
 ![](assets/page_003_picture_004.png)
 
@@ -100,9 +117,9 @@ Battle of Britain– By July 1940, it was feared that the Germans were planning 
 
 This campaign failed because with the aid of a newly developed and top secret device 'radar' for detecting aircraft while still at a distance, the fighter planes of the Royal Air Force were able to inflict severe losses on the German bombers. The raids stopped after October 1940. The Germans dropped their plans to invade Britain because of the failure of the air battle.
 
-![](assets/page_005_picture_003.png)
-
 ![*Royal Air Force*](assets/page_005_picture_002.png)
+
+![](assets/page_005_picture_003.png)
 
 **Lend Lease 1941–1945**
 
@@ -218,11 +235,9 @@ of the United Nations was accepted by all the 26 countries which were fighting a
 
 **General Assembly and Security Council**
 
-![](assets/page_008_picture_005.png)
-
 The United Nations functions almost like any government, through its principal organs which are similar to the legislative, executive and judicial wings of a state. In the General Assembly is the body in which each member state
 
-*UN Headquarters, New York*
+![*UN Headquarters, New York*](assets/page_008_picture_005.png)
 
 is represented. It meets once a year and issues of interest and points of conflict are discussed in the Assembly. The Security Council has fifteen members. Five countries - the United States, Britain, France, Russia and China - are permanent members, and there are ten temporary members who are elected in rotation. These two bodies function like a legislature. Each of the permanent members has the right to veto any decision by the other members of the Security Council. This right has often been used to block major decisions, especially by the superpowers, the US and Russia. Major issues and conflicts are discussed in the Security Council.
 
@@ -269,3 +284,167 @@ In 1942, the Report commonly known as the Beveridge Report was published in the 
 After the War, the Labour party was voted into power in Britain. It promised to undertake steps to look after the people "from the cradle to the grave". Legislation was enacted to provide comprehensive free health coverage to the citizens through the National Health Service and monetary benefits like old age pensions and unemployment benefits, childcare services and family welfare services. These are in addition to universal, free school education to all children.
 
 The benefits can either be achieved through cash transfers, like old age pensions and unemployment compensation, or through free services. In addition, these countries also try to minimize economic disparities through progressive taxation by taxing the higher income groups at relatively high rates.
+
+**SUMMARY**
+
+![](assets/page_011_picture_007.png)
+
+- The War lasted from 1939 to 1945 and was fought in almost every part of the world, in Europe, Africa and the Asia Pacific. The Allies, initially Britain and France, and subsequently the USSR (Russia) and the United States, fought against the Axis powers - Germany, Italy and Japan.
+- Initially both the German army in Europe and Japan in the East were very successful. However, after the United States with its enormous resources also joined the Allies, both Germany and Japan were defeated after many prolonged fighting.
+- The post-War world saw the rise of two superpowers, namely the United States and the USSR. Both countries were in an arms race, especially to build their nuclear weapons.
+
+**GLOSSARY**
+
+|  |  |  |
+| --- | --- | --- |
+| devastation/ havoc | total destruction | பேரழிவு |
+| belligerent | one eager to fight / aggressive | போர் நாட்டம் |
+| resurgent | rising again | மீண்டடெழுகிற |
+| reparations | compensation exacted from a defeated nation by the victors | இழப்பீடுகள் |
+| armaments | weapons | போர்த்தளவாடங்கள் |
+| conscripted | compulsory military service | கட்டாய இராணுவ சேவைக்கு அழைக்கப்பட்ட 7 |
+| slaughter | kill a large number of people indiscriminately | வதைத்துக் கொல்லுதல் |
+| proliferation | a rapid increase | பல்கிப் பெருகுதல் |
+| ghettos | slums | குடிசைத்தொகுதி |
+| veto | a vote that blocks a decision / negative vote | மறுப்பபாணை / எதிர்வவாக்கு |
+| ambit | range | வரம்பு / எல்லலை |
+| scourge | eternal suffering | மீளாத்துயரம் |
+| stringent | tough | கடுமையான |
+
+![](assets/page_011_picture_002.png)
+
+**I Choose the correct answer**
+
+![](assets/page_011_picture_003.png)
+
+- When did the Japanese formally sign of their surrender?
+- 2 September, 1945
+- 2 October, 1945
+- 15 August, 1945
+- 12 October, 1945
+- Who initiated the formation of League of Nations?
+- Roosevelt
+- Chamberlain
+- Woodrow Wilson
+- Baldwin
+- Where was the Japanese Navy defeated by the US Navy?
+- Battle of Guadalcanal
+- Battle of Midway
+- Battle of Leningrad
+- Battle of El Alamein
+
+![](assets/page_011_picture_004.png)
+
+37
+
+World War II
+
+- Where did the US drop its first atomic bomb?
+- Kavashaki
+- Tokyo
+- Hiroshima
+- Nagasaki
+- Who were mainly persecuted by Hitler?
+- Russians
+- Arabs
+- Turks
+- Jews
+- Which Prime Minister of England signed the Munich Pact with Germany ?
+- Chamberlain
+- Winston Churchill
+- Lloyd George
+- Stanley Baldwin
+- When was the Charter of the UN signed?
+- June 26, 1942
+- June 26, 1945
+- January 1, 1942
+- January 1, 1945
+
+**II Fill in the blanks**
+
+- Hitler attacked which was a demilitarised zone.
+- The alliance between Italy, Germany and Japan is known as .
+- Britain Prime Minister resigned in 1940.
+- is a device used to find out the enemy aircraft from a distance.
+
+World War II
+
+**III Choose the correct statement**
+
+- Assertion: President Roosevelt realised that the United States had to change its policy of isolation.
+
+Reason: He started a programme of Lend Lease in 1941.
+
+- Both A and R are correct
+- A is right but R is not the correct reason
+- Both A and R are wrong
+- R is right but it has no relevance to A
+
+**IV Match the Following**
+
+- Blitzkrieg -
+
+Stalingrad
+
+- Royal Navy -
+- Volga -
+- Guadalcanal -
+
+Solomon Island
+
+Britain
+
+lightning strike
+
+**V Answer the questions briefly**
+
+- Who were the three prominent dictators of the post World War I ?
+- How did Hitler get the support from the people of Germany?
+- Describe the Pearl Harbour incident.
+- What do you know of Beveridge Report?.
+- Name the Bretton Woods Twins.
+- What are the objectives of IMF?
+- VI Answer in detail
+- Analyse the effects of the World War II.
+- Assess the structure and the activities of the UN.
+
+**VII Students Activity**
+
+- Marking the Allies and Axis countries, as well as important battlefields of World War II in a world map.
+
+**VIII Map Work**
+
+**Mark the following on the world map.**
+
+- Axis Power Countries
+- Allied Power Countries
+- Hiroshima, Nagasaki, Hawaii Islands, Moscow, San Fransico
+
+![](assets/page_013_picture_002.png)
+
+**REFERENCE BOOKS**
+
+- R.D. Cornwell, World History in the Twentieth Century, London: Longman, 1972.
+- C.V. Narasimhan, The United Nations - A An Inside View, New Delhi: Vikas, 1988.
+- Encyclopaedia Britannica, vol. 23 (1962 edition).
+- Chris Harman, A People's History of the World (Delhi: Orient Longman, 2007)
+
+![](assets/page_013_picture_003.png)
+
+**Steps**
+
+- Open the Browser and type the URL given below (or) Scan the QR Code.
+- Click on 'map' to see the events happened in the location
+- Select any year from the bottom time line (Ex.1939) and select the 'box' to learn more about the World War II events.
+
+**Website URL:**
+
+https://www.abmc.gov/sites/default/files/interactive/interactive_files/WW2/ index.html World War II
+
+![](assets/page_013_picture_004.png)
+
+**World War II**
+
+![](assets/page_013_picture_005.png)
+
+![](assets/page_013_picture_008.png)

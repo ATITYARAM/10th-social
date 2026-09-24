@@ -6,21 +6,26 @@ weight: 9
 summary: "The role of Tamil Nadu in India's freedom struggle, including prominent leaders, organisations, movements and forms of resistance."
 ---
 
-# Chapter 9
+Unit - 9
 
-# **Freedom Struggle in Tamil Nadu**
+**Freedom Struggle in Tamil Nadu**
+
+![](assets/page_001_picture_002.png)
 
 **Learning Objectives**
 
 **To acquaint ourselves with:**
 
+- Anti-colonial struggles in Tamil Nadu.
+- Contribution of Christian missionaries to the development of education and amelioration of the depressed classes.
+- Challenge of the Justice Party to the Congress in Tamil Nadu.
+- Militant mass movement of the Congress in Tamil Nadu.
+
 **Introduction**
 
 Tamil Nadu showed the lead in resisting colonial rule. As early as the late eighteenth century the Palayakarars, resisted the English attempts to establish their political hegemony in Tamil Nadu. Even after the defeat of the Palayakarars, an uprising was organised by Indian sepoys and officers in Vellore Fort in 1806 that had its echoes in several cantonments in South India. Thanks to the introduction of Western education and eventual emergence of educated Indian middle class, the struggle against the British took the constitutional path. The freedom struggle in Tamil Nadu was unique, because from the beginning it was not only a struggle for independence from the English rule but also a struggle for independence from social disability imposed by the obnoxious caste system. In this lesson, we shall study the role played by nationalists, who followed diverse ideologies in Tamil Nadu.
 
-![](assets/page_001_picture_006.png)
-
-![](assets/page_001_picture_007.png)
+105
 
 ### 9.1 Early Nationalist Stirrings in Tamil Nadu
 
@@ -32,7 +37,11 @@ missionary activities. It drew the attention of the government to the condition 
 
 ![*Gazalu Lakshminarasu*](assets/page_001_picture_003.png)
 
-105
+![](assets/page_001_picture_005.png)
+
+![](assets/page_001_picture_006.png)
+
+![](assets/page_001_picture_007.png)
 
 Torture Commission and the eventual abolition of the Torture Act, which justified the collection of land revenue through torture. However, by 1862, the Madras Native Association had ceased to exist.
 
@@ -40,9 +49,9 @@ Torture Commission and the eventual abolition of the Torture Act, which justifie
 
 The appointment of T. Muthuswami as the first Indian Judge of the Madras High Court in 1877 created a furore in Madras Presidency. The entire press in Madras criticized the appointment of an Indian as a Judge. The press opposed his appointment and the educated youth realized that the press was entirely owned by Europeans. The need for a newspaper to express the Indian perspective was keenly felt. G. Subramaniam, M. Veeraraghavachari and four other friends together started a newspaper The Hindu in 1878. It soon became the vehicle of nationalist propaganda. G. Subramaniam also started a Tamil nationalist periodical Swadesamitran in 1891 which became a daily in 1899. The founding of The Hindu and Swadesamitran provided encouragement to the starting of other native newspapers such as Indian Patriot , South Indian Mail, Madras Standard, Desabhimani, Vijaya, Suryodayam and India.
 
-![](assets/page_002_picture_002.png)
+![*T. Muthuswami G. Subramaniam*](assets/page_002_picture_002.png)
 
-![*T. Muthuswami G. Subramaniam*](assets/page_002_picture_003.png)
+![](assets/page_002_picture_003.png)
 
 **(c) Madras Mahajana Sabha**
 
@@ -54,17 +63,15 @@ public issues in closed meetings, conducted hall meetings and communicated their
 
 Provincial associations such as the Madras Mahajana Sabha led to the formation of an all-India organisation, the Indian National Congress Leaders from different parts of India attended several meetings before the formation of the Congress. One such meeting was held in December 1884, in Theosophical Society at Adyar. It was attended by Dadabhai Naoroji, K.T. Telang, Surendranath Banerjee and other prominent leaders apart from G. Subramaniam, Rangaiah and Anandacharlu from Madras.
 
-![](assets/page_002_picture_007.png)
-
 ![*Dadabhai Naoroji*](assets/page_002_picture_006.png)
 
-*Gokhale*
+![*Gokhale*](assets/page_002_picture_007.png)
 
 The first session of the Indian National Congress was held in 1885 at Bombay. Out of a total of 72 delegates, 22 members were from Madras.
 
-![](assets/page_002_picture_008.png)
-
 The second session of the Indian National Congress was held in Calcutta in 1886, with Dadabhai Naoroji in the Chair. The third session was held at Makkis
+
+![](assets/page_002_picture_008.png)
 
 Garden, now known as the Thousand lights, in Madras in 1887 with Badruddin Tyabji
 
@@ -72,15 +79,13 @@ Garden, now known as the Thousand lights, in Madras in 1887 with Badruddin Tyabj
 
 The early nationalists believed in constitutional methods. Their activities consisted of conducting hall meetings and deliberating the problems of the country in English. When, at the time of Partition of
 
-![](assets/page_003_picture_006.png)
-
-![](assets/page_003_picture_005.png)
-
 ![*V.S. Srinivasanar*](assets/page_003_picture_003.png)
 
-*P.S. Sivasamy*
+![](assets/page_003_picture_004.png)
 
-*G.A. Natesan*
+![*P.S. Sivasamy*](assets/page_003_picture_005.png)
+
+![*G.A. Natesan*](assets/page_003_picture_006.png)
 
 Bengal, Tilak and other leaders adopted popular methods such as mass public meetings, and used vernacular languages to address the larger public, the early nationalists came to be known as moderates. The distinguished Tamil Moderates from Madras: V.S. Srinivasanar, P.S. Sivasamy, V. Krishnasamy, T.R. Venkatramanar, G.A. Natesan, T.M. Madhava Rao, and S. Subramaniar.
 
@@ -112,9 +117,9 @@ V.O.C joined with Subramania Siva in organising the mill workers in Thoothukudi 
 
 sentenced to rigorous imprisonment. Initially V.O.C. was given a draconian sentence of two life imprisonments. The news of the arrest sparked riots in Tirunelveli leading to the burning down of the police station, court building and municipal office. It led to the death of four people in police firing. V.O.C. was treated harshly in prison and was made to pull the heavy oil press. To avoid imprisonment Subramania Bharati moved to Pondicherry which was under French rule. Bharati's example was followed by many other nationalists such as Aurobindo Ghosh and V. V. Subramanianar.
 
-![](assets/page_004_picture_002.png)
+![*Bipin Chandra Pal*](assets/page_004_picture_002.png)
 
-![*Bipin Chandra Pal*](assets/page_004_picture_003.png)
+![](assets/page_004_picture_003.png)
 
 *Bharati*
 
@@ -122,11 +127,9 @@ sentenced to rigorous imprisonment. Initially V.O.C. was given a draconian sente
 
 Pondicherry provided a safe haven for the revolutionaries. Many of these revolutionaries in Tamil Nadu were introduced and trained in revolutionary activities at India House in London and in Paris. M.P.T. Acharya, V.V. Subramanianar and T.S.S. Rajan were prominent among them. Revolutionary literature was distributed by them in Madras through Pondicherry. Radical papers such as India, Vijaya and Suryodayam published from Pondicherry.
 
-![](assets/page_004_picture_005.png)
-
 ![*V.V. Subramanianar*](assets/page_004_picture_004.png)
 
-*Aurobindo Gosh*
+![*Aurobindo Gosh*](assets/page_004_picture_005.png)
 
 **Ashe Murder**
 
@@ -154,11 +157,9 @@ The non-Brahmins organised themselves into political organisations to protect th
 
 The Congress boycotted the elections of 1920. The Justice Party won 63 of 98 elected seats in the Legislative Council. A. Subburayalu of the Justice Party became the first chief minister. After the 1923 elections, Raja of Panagal of the Justice Party formed the ministry.
 
-![](assets/page_005_picture_003.png)
-
 ![*A Subbarayalu*](assets/page_005_picture_002.png)
 
-*Raja of Panagal*
+![*Raja of Panagal*](assets/page_005_picture_003.png)
 
 **(b) Government's Repressive Measures: Rowlatt Act**
 
@@ -166,11 +167,9 @@ A draconian Anarchical and Revolutionary Crimes Act, popularly known as the Rowl
 
 **Rowlatt Satyagraha**
 
-![](assets/page_005_picture_004.png)
-
 On 18 March 1919, Gandhi addressed a meeting on Marina Beach, Chennai. On 6 April 1919, hartal was organised to protest against the "Black Act". Protest demonstrations were held at several parts of Tamil Nadu. Processions
 
-*S. Satyamurty*
+![*S. Satyamurty*](assets/page_005_picture_004.png)
 
 109
 
@@ -246,11 +245,9 @@ On 11 January 1932 a procession carrying national flags and singing patriotic so
 
 In the 1937 election the Congress emerged victorious. The Justice Party was trounced. Congress victory in the elections clearly indicated its popularity with the people.
 
-![](assets/page_007_picture_007.png)
-
 Rajaji formed the first Congress Ministry. He introduced prohibition on an experimental basis in Salem. To compensate for the loss of revenue he introduced a sales tax. When the British involved India in the Second World War without
 
-*C. Rajaji*
+![*C. Rajaji*](assets/page_007_picture_007.png)
 
 consulting the elected Congress ministries, the latter resigned.
 
@@ -266,12 +263,24 @@ On 8 August 1942 the Quit India resolution was passed and Gandhi gave the slogan
 
 **SUMMARY**
 
-railway station the police waited with a list of local leaders and arrested them as they got down. Kamaraj gave the police the slip and got down at Arakkonam itself. He then worked underground and organised people during the Quit India Movement.
+- Contributions of Madras Native Association, Madras Mahajana Sabha and the nationalist press to the growth of nationalism in Tamil Nadu are discussed.
+- Swadeshi phase of the Indian National Movement in Tamil Nadu, with focus on role played by V .O.C., Subramania Siva, Subramania Bharathi, is detailed.
+- Non-cooperation Movement, E.V .R. ’s differences with the Congress,the birth of Swaraj Party at the national level and the Self-Respect Movement in the Tamil region are examined.
+- Tamil Nadu’s participation in the Civil Disobedience Movement organised to protest the disappointment over Simon Commission and the Round Table Conferences are dealt with.
+- The elections under Government of India Act, 1935 and the formation of first Congress Ministry in Madras under Rajaji are outlined. 09_History_Unit_9_EM.indd 11209_History_Unit_9_EM.indd 112 1/20/2025 4:49:25 PM1/20/2025 4:49:25 PM 113 Freedom Struggle in Tamil Nadu c) B.P . Wadia d) G.S. Arundale 4. Who among the following were Swarajists? a) S. Satyamurti b) Kasturirangar c) P . Subbarayan d) Periyar EVR 5. Who set up the satyagraha camp in Udyavanam near Madras? a) K. Kamaraj b) C. Rajaji c) K. Santhanam d) T. Prakasam 6. Where was the anti-Hindi Conference held? a) Erode b) Madras c) Salem d) Madurai I Choose the correct answer 1. Who was the first President of the Madras Mahajana Sabha? a) T.M. Nair b) P . Rangaiah c) G. Subramaniam d) G.A. Natesan 2. Where was the third session of the Indian National Congress held? a) Marina b) Mylapore c) Fort St. George d) Thousand Lights 3. Who said “Better bullock carts and freedom than a train de luxe with subjection”? a) Annie Besant b) M. Veeraraghavachari
 
-![*K. Kamaraj*](assets/page_008_picture_005.png)
+**GLOSSARY**
 
-**Undying Mass Movement**
-
-All sections of the society participated in the movement. There were a large number of workers strike such as strikes in Buckingham and Carnatic Mills, Madras Port Trust, Madras Corporation and the Electric Tramway. Students of various colleges took active part in the protests. Many young men and women also joined the INA. The Quit India Movement was suppressed with brutal force.
-
-The Royal Indian Navy Mutiny, the negotiations initiated by the newly formed Labour Party Government in England resulting in India's independence but sadly with partition of the country into India and Pakistan has formed part of the Lesson in Unit VIII.
+|  |  |  |
+| --- | --- | --- |
+| hegemony | Participation in the Construction of the Community Care System leadership or dominance, especially by one state or social group over others (Participation in the Construction of the Community Care System) (Participation in the Construction of the Community Care System) (Participation in the Construction of the Community Care System) (Participation in the Construction of the Community Care System) (Participation in the Construction of the Community Care System) (Participation in the Construction of the Community Care System) (Participation in the Construction of the Community Care System) (Participation in the Construction of the Community Care System) (Participation in the Construction of the Community Care System) (Participation in the Construction of the Community Care System) (Participation in the Construction of the Community Care System) | மேலாதிக்கம் |
+| us extremely unpleasan | விரும்பத்தகாத, வெறுக்கப்படுகி | obnoxious |
+| a general agreement | கருத்து ஒருமைப்பபாடு, முழு இசைவு | கருத்து ஒருமைப்பபாடு, முழு இச |
+| insincerity/two-facedness, dishonesty, lip service | பாசாங்கு, போலிமை | hypocrisy |
+| inciting or causing people to rebel against the authority of a state or monarch | ஆட்சிக்கு எதிரான | seditious |
+| demonstration | பொது ஆர்ப்பபாட்ட நிகழ்ச்சி | demonstration a pro some |
+| picket | மறியல் | orkplace or ot |
+| boycott | or participate in புறக்கணி | புறக்கணி |
+| l savagely v | gely violent | கொடுமைமிக்க, இர |
+| patriotic | நாட்டுப்பற்று | patriotic |
+| repression action of subduing solutions something with force | ing someone or force அடக்குமுறை | epression |

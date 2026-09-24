@@ -6,20 +6,38 @@ weight: 8
 summary: "The Gandhian phase of the Indian national movement, including major mass movements, methods of resistance and the struggle for independence."
 ---
 
-# Chapter 8
-
+**Unit - 8**
 
 **Nationalism: Gandhian Phase**
+
+![](assets/page_001_picture_002.png)
 
 **Learning Objectives**
 
 **To acquaint ourselves with**
 
+- Gandhian phase of India's struggle for independence.
+
+![](assets/page_001_picture_003.png)
+
+![](assets/page_001_picture_005.png)
+
+![](assets/page_001_picture_006.png)
+
+- Gandhi's policy of ahimsa and satyagraha tried and tested for mobilisation of the masses in India.
+- Non-violent struggles in Champaran and against the Rowlatt Act.
+- The Non-Cooperation Movement and its fallout.
+- Emergence of radicals and revolutionaries and their part in the freedom movement.
+- Launch of Civil Disobedience Movement.
+- Issue of separate electorate and the signing of Poona Pact.
+- First Congress Ministries in the provinces and circumstances leading to the launch of Quit India Movement.
+- Communalism leading to partition of sub-continent into India and Pakistan.
+
 **Introduction**
 
 Mahatma Gandhi arrived in India in 1915 from South Africa after fighting for the civil rights of the Indians there for about twenty years. He brought with him a new impulse to Indian politics. He introduced satyagraha, which he had perfected in South Africa, that could be practiced by men and women, young and old. As a person dedicated to the cause of the poorest of the poor, he instantly gained the goodwill of the masses. In this lesson we shall see how Gandhi transformed the Indian National Movement.
 
-![](assets/page_001_picture_005.png)
+![](assets/page_001_picture_007.png)
 
 ### 8.1 Gandhi and Mass Nationalism
 
@@ -57,9 +75,9 @@ The Government of India Act 1919, however, caused disappointment, as it did not 
 
 **General Dyer's Brutality**
 
-![](assets/page_003_picture_004.png)
-
 On 13 April 1919, a public meeting was arranged at Jallianwala Bagh in Amritsar. As it happened to be Baisaki day (spring harvest festival of Sikhs), the
+
+![](assets/page_003_picture_004.png)
 
 villagers had assembled there in thousands. General Reginald Dyer, on hearing of the assemblage, surrounded the place with his troops and an armoured vehicle. The only entrance to the park that was surrounded on all sides by high walls was blocked, and firing took place without any warning. The firing lasted for ten minutes till the troops ran out of ammunition. According to official report 379 were killed and more than thousand injured. Unofficial estimates put the toll at more than a thousand. After the incident, martial law was declared and many people in the Punjab, especially Amritsar were flogged and forced to crawl on the streets. The brutality enraged Indians. Rabindranath Tagore returned his knighthood. Gandhi surrendered his Kaiser-i-Hind medal.
 
@@ -94,11 +112,11 @@ The mob burnt the police station 22 policemen lost their lives. Gandhi immediate
 
 Meanwhile Congress was divided into two groups, viz., pro-changers and no-changers. Some of the Congressmen led by Motilal Nehru and C.R. Das wanted to contest the elections and enter the legislature. They argued that the national interest could be promoted by working in the Legislative Councils under Dyarchy and wrecking the colonial government within. They were called the pro-changers. Staunch followers of Gandhi like Vallabhbhai Patel, C. Rajaji and others, known as no-changers, wanted to continue non-cooperation with the government. Despite the opposition C.R. Das and Motilal Nehru formed the Swaraj Party on 1 January 1923, which was later approved by a special session of the Congress. Swaraj Party members were elected in large numbers to the Imperial Legislative Assembly and the various Provincial Legislative Councils. They effectively
 
-![](assets/page_004_picture_004.png)
+![*C.R. Das*](assets/page_004_picture_004.png)
 
-![*Motilal Nehru*](assets/page_004_picture_005.png)
+![](assets/page_004_picture_005.png)
 
-*C.R. Das*
+*Motilal Nehru*
 
 Dyarchy, a system of dual government introduced under the Government of India Act 1919, divided the powers of the provincial government into Reserved and Transferred subjects. The Reserved Subjects comprising finance, defence, the police, justice, land revenue, and irrigation were in the hands of the British. The Transferred Subjects that included local self-government, education, public health, public works, agriculture, forests and fisheries were left under the control of Indian ministers. The system ended with the introduction of provincial autonomy in 1935.
 
@@ -118,11 +136,14 @@ On 8 November 1927, the British Government announced the appointment of the Indi
 
 The Simon boycott united the different political parties in India. An all party conference was held in 1928, with the objective to frame a constitution for India as an alternative to the Simon Commission proposals. A committee under the leadership of Motilal Nehru was formed to outline the principles on the basis of which the constitution was to be drafted. The committee's report, known as the Nehru Report, recommended,
 
-![](assets/page_005_picture_005.png)
+- Dominion status for India.
+- Elections of the Central Legislature and the Provincial Legislatures on the basis of joint and mixed electorates.
+- Reservation of seats for Muslims in the Central Legislature and in provinces, where they are in a minority and for the Hindus in North-West Frontier Province where they were in a minority.
+- Provision of fundamental rights, and universal adult franchise.
 
 Jinnah proposed an amendment to the reservation of seats in the Central Legislature. He demanded that one-third of the seats be reserved for Muslims. Tej Bahadur Sapru supported him and pleaded that it would make no big
 
-*Jinnah*
+![*Jinnah*](assets/page_005_picture_005.png)
 
 difference. However, it was defeated in the All Party Conference. Later he proposed a resolution which came to be known as Jinnah's Fourteen Points. However, it was also rejected. Jinnah who was hailed as Ambassador of Hindu–Muslim Unity thereafter changed his stand and began to espouse the cause of a separate nation for Muslims.
 
@@ -136,9 +157,15 @@ Meanwhile, some congressmen were not satisfied with dominion status and wanted t
 
 A charter of demands presented to the Viceroy Lord Irwin with an ultimatum to comply by 31 January 1930, included:
 
-![](assets/page_006_picture_003.png)
+- Reduction of expenditure on army and civil services by 50%.
+- Introduction of total prohibition of liquor.
+- Release of all political prisoners.
+- Reduction of land revenue by 50%.
+- Abolition of salt tax.
 
-![*Gandhiji's Dandi March*](assets/page_006_picture_002.png)
+![](assets/page_006_picture_002.png)
+
+![*Gandhiji's Dandi March*](assets/page_006_picture_003.png)
 
 When the Viceroy did not respond to the charter of demands, Gandhi launched the Civil Disobedience Movement. The inclusion of abolition of salt tax was a brilliant tactical decision. At the break of dawn, on 12 March 1930, Gandhi set out from Sabarmati Ashram with 78 of its inmates. The procession became larger and larger when hundreds joined them
 
@@ -166,6 +193,8 @@ Lord Irwin held talks with Gandhi which resulted in the Gandhi–Irwin Pact on 5
 
 ![*Second Round Table Conference - London*](assets/page_007_picture_002.png)
 
+95
+
 separate electorates for minorities. As a result, the second conference ended without any result.
 
 **(d) Renewal of Civil Disobedience Movement.**
@@ -182,23 +211,23 @@ On 16 August 1932, Ramsay MacDonald, announced the Communal Award. It provided s
 
 an agreement was arrived between Gandhi and Ambedkar. Known as the Poona Pact, its main terms were:
 
-95
-
 foisting a series of cases in the 1920s. In a further attempt to eliminate the threat of communism M.N. Roy, S.A. Dange, Muzaffar Ahmed, M. Singaravelar among others were arrested and tried in the Kanpur Conspiracy Case of 1924.
+
+- The principle of separate electorates was abandoned. Instead, the principle of joint electorate was accepted with reservation of seats for the depressed classes.
 
 **(a) Foundation of Communist Party**
 
 The communists used it as a platform to propagate their views and to expose the 'true colour of British rule in India'. In an attempt to form a party an All India Communist Conference was held at Kanpur in 1925. Singaravelar gave the Presidential Address. It led
 
-![](assets/page_008_picture_006.png)
+![*S.A. Dange*](assets/page_008_picture_006.png)
+
+- Reserved seats for the depressed classes were increased from 71 to 148. In the Central Legislature 18 percent of the seats were reserved.
 
 **(f) Campaign Against Untouchability**
 
-*S.A. Dange*
-
 Gandhi devoted the next few years towards abolition of untouchability. His engagement with Dr. B.R. Ambedkar made a big impact on his ideas about the caste system. He shifted his base to the Satyagraha Ashram at Wardha. He undertook
 
-![](assets/page_008_picture_002.png)
+![*Dr. B.R. Ambedkar*](assets/page_008_picture_002.png)
 
 to the founding of the Communist Party of India in Indian soil. Their efforts eventually led to the establishment of the All India Workers' and Peasants' Party in 1928.
 
@@ -206,31 +235,21 @@ to the founding of the Communist Party of India in Indian soil. Their efforts ev
 
 The youths who were disillusioned with the sudden withdrawal of the Non-Cooperation Movement by Gandhi took to violence. In 1924, Hindustan Republican Army (HRA) was formed in Kanpur to overthrow the colonial rule by an armed rebellion. In 1925, Ram Prasad Bismil, Ashfaqulla Khan and others held up a train carrying government money and looted in Kakori, a village near Lucknow. They were arrested and tried in the Kakori Conspiracy Case. Four of them were sentenced to death while the others were sentenced to imprisonment.
 
-*Dr. B.R. Ambedkar*
-
 an all-India tour called the Harijan Tour. He started the Harijan Sevak Sangh to work for the removal of discriminations. He worked to promote education, cleanliness and hygiene and giving up of liquor among the depressed class. An important part of the campaign was the Temple Entry Movement. January 8, 1933 was observed as 'Temple Entry Day'.
 
 ### 8.5 Beginnings of Socialist Movements
 
-![](assets/page_008_picture_009.png)
+![*Rajguru*](assets/page_008_picture_009.png)
 
-![](assets/page_008_picture_007.png)
+![*Bhagat Singh*](assets/page_008_picture_007.png)
 
-![](assets/page_008_picture_008.png)
+![*Sukhdev*](assets/page_008_picture_008.png)
 
-![](assets/page_008_picture_003.png)
+![*M.N. Roy*](assets/page_008_picture_003.png)
 
 nspired by the Russian Revolution of 1917 the Communist Party of India (CPI) was founded at Tashkent, Uzbekistan in October 1920. M.N. Roy, Abani Mukherjee, and M.P.T. Acharya were some of its founding members. The
 
-*Bhagat Singh*
-
-*Sukhdev*
-
-*Rajguru*
-
 Bhagat Singh, Sukhdev and their comrades reorganized the HRA in Punjab. Influenced by socialist ideas they renamed it as Hindustan Socialist Republican Association in 1928. Sanders, a British police officer, responsible for the lathi charge that led to Lala Lajpat Rai's death was assassinated. Bhagat Singh along with B.K. Dutt threw a smoke bomb inside the Central Legislative Assembly in 1929. They shouted 'Inquilab Zindabad' and 'Long Live the Proletariat'. He along with Rajguru was arrested and sentenced to death. Bhagat Singh's daring and courage fired the imagination of the youth across India, and he became popular across India.
-
-*M.N. Roy*
 
 British government in India made vigorous efforts to suppress the communist movement by
 
@@ -238,11 +257,9 @@ Nationalism: Gandhian Phase
 
 96
 
-![](assets/page_009_picture_002.png)
-
 n April 1930, the Chittagong Armoury Raid was carried out by Surya Sen and his associates. They captured the armouries in Chittagong and proclaimed a provisional revolutionary government. They survived
 
-*Surya Sen*
+![*Surya Sen*](assets/page_009_picture_002.png)
 
 for three years raiding government institutions. In 1933, Surya Sen was caught and hanged after a year.
 
@@ -250,11 +267,11 @@ for three years raiding government institutions. In 1933, Surya Sen was caught a
 
 By the 1930s the Communist Party of India had gained strength in view of the economic crisis caused by world-wide Great Depression. Britain transmitted the effects of Depression to its colonies. The effects of Depression were reflected in decline in trade returns and fall in agricultural prices. The governmental measures included forcible collection of land revenue which in real terms had increased two-fold due to a 50% fall in agricultural prices, the withdrawal of money in circulation, retrenchment of staff and expenditure on developmental works.
 
+![*Jayaprakash Narayan*](assets/page_009_picture_003.png)
+
+![](assets/page_009_picture_004.png)
+
 ![](assets/page_009_picture_005.png)
-
-![](assets/page_009_picture_003.png)
-
-![*Jayaprakash Narayan*](assets/page_009_picture_004.png)
 
 *Acharya Narendra Dev*
 
@@ -304,11 +321,9 @@ n 1939 Subhas Chandra Bose became the President of the Congress by defeating Pat
 
 **(c) "Do or Die" Call by Gandhi**
 
-![](assets/page_010_picture_002.png)
+![*Pattabhi Sitaramayya*](assets/page_010_picture_002.png)
 
 The outcome of the Cripps Mission caused considerable disappointment. Popular discontent was intensified by war time shortages and steep rise in prices. The All India Congress Committee that met at Bombay on 8 August 1942 passed the famous Quit India Resolution demanding an immediate end to British rule in India. Gandhi gave a call to 'do or die'. Gandhi said, 'We shall either free India or die in the attempt; we shall not live to see the perpetuation of our slavery." A non-violent mass struggle under Gandhi was to be launched. But early next morning on 9 August 1942 Gandhi and the entire Congress leadership were arrested.
-
-*Pattabhi Sitaramayya*
 
 Nationalism: Gandhian Phase
 
@@ -316,11 +331,9 @@ Nationalism: Gandhian Phase
 
 **(d) Role of Socialists**
 
-![](assets/page_011_picture_002.png)
-
 With Gandhi and other prominent leaders of the Congress in jail, the Socialists provided the leadership for the movement. Jayaprakash Narayan and Ramanand Misra escaped from prison and organised an underground movement.
 
-*Aruna Asaf Ali*
+![*Aruna Asaf Ali*](assets/page_011_picture_002.png)
 
 Women activists like Aruna Asaf Ali played a heroic role. Usha Mehta established Congress Radio underground which successfully functioned till November 1942.
 
@@ -352,6 +365,8 @@ The Royal Indian Navy ratings revolted at Bombay in February 1946. It soon sprea
 
 Nationalism: Gandhian Phase to other stations involving more than 20,000 ratings. Similar strikes occurred in the Indian Air Force and the Indian Signal Corps at Jabalpur. Thus the British hegemonic control ceased even in the armed forces.
 
+![](assets/page_012_picture_003.png)
+
 ![](assets/page_012_picture_004.png)
 
 ![*Royal Indian Navy Revolt*](assets/page_013_picture_002.png)
@@ -372,8 +387,36 @@ Difference arose between Congress and Muslim League when the former nominated a 
 
 The interim government headed by Jawaharlal Nehru was formed in September 1946. After some hesitation the Muslim League joined it in October 1946. Its representative Liaqat Ali Khan was made the Finance Member. In February 1947, Clement Atlee declared that power would be transferred by June 1948. Lord Mountbatten was sent as Viceroy to India with the specific task of transfer of power. On 3 June 1947 the Mountbatten Plan was announced. It proposed:
 
+- Power would be transferred on the basis of dominion status to India and Pakistan.
+- Princely states would have to join either India or Pakistan.
+- Boundary commission was to be set up under Radcliffe and the award would be announced after the transfer of power.
+
 Nationalism: Gandhian Phase
+
+- Punjab and Bengal Legislative Assemblies would vote on whether they should be partitioned.
 
 **(f) Independence and Partition**
 
 The Mountbatten Plan was given effect by the enactment of the Indian Independence Act on 18 July 1947 by the British Parliament. The Act abolished the sovereignty of the British Parliament over India. India was partitioned into two dominions – India and Pakistan. On 15 August 1947 India won independence.
+
+**SUMMARY**
+
+- Gandhiji’s experiments with truth, ahimsa and satyagraha in South Africa and his evolution as a mass leader are explained.
+- His call for Non-Cooperation, Civil Disobedience and Quit India Movements and the fallout of these mass struggles in the form of legislation such as Government of India Act, 1919 and Government of India Act, 1935 and Independence Act, 1947 are detailed.
+- Role played by Socialists and Communists and Revolutionaries represented by Bhagat Singh, Subhas Chandra Bose and outcome of their activities are highlighted.
+- Use of religion for political mobilisation by Hindu Mahasabha and Muslim League leading to partition is discussed.
+
+**GLOSSARY**
+
+|  |  |  |
+| --- | --- | --- |
+| satyagraha | passive political resistance advocated by Mahatma Gandhi | அறப்போர், சத்தியாகிரகம் |
+| onstitutionalist adherent of constitutional method | அரசியல் சட்ட விதிகளைப் பின்பற்றுபவர் | constitutionalist |
+| discrimination | ஜாதி, கொள்கை போன்றவற்றின் அடிப்படையில் வேறுபாடு காட்டுகிற | discrimination |
+| exhort | ing வற்புறுத்து, நற்சசெயலுக்ககேவு | strongly encoura |
+| communalism | வகுப்புவாதம் | communalism |
+| dominion | தன்னாட்சியுரிமையுடைய குடியேற்ற நாடு நாடு நாடு | dominion |
+| electorate | rea who are வாக்காளர் தொகுதி | electorate |
+| ultimatum | a final demand or statement of terms | கடைசி அறிவிப்பு, இறுதி எச்சரி |
+| alienation | Isolation | தனிமைப்படுதல் |
+| conspiracy | a secret plan by a group to do something unlawful or harmful 6 | thing கூட்டுச்சதி செய்தல், சது |

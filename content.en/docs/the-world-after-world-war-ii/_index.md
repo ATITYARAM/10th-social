@@ -6,13 +6,22 @@ weight: 4
 summary: "The major political and international developments after World War II, including the Cold War, decolonisation and the emergence of new global powers."
 ---
 
-# Chapter 4
+Unit - 4
 
-# **The World After World War II**
+**The World After World War II**
+
+![](assets/page_001_picture_002.png)
 
 **Learning Objectives**
 
 **To acquaint ourselves with**
+
+- Communist Revolution in China
+- Cold War and the Non-Aligned Movement
+- Korean War and the Cuban Missile Crisis
+- Arab–Israeli Wars and Vietnam War
+- European Economic Community and European Union
+- Fall of Berlin Wall and the End of Cold War Era
 
 **Introduction**
 
@@ -28,9 +37,15 @@ The Non-Aligned Movement played a limited role in containing the conflict betwee
 
 In its long history, Chinese civilization was more advanced than that of Europe. But by the end of the nineteenth century, its progress had halted. The Manchus, the ruling dynasty, had governed China since about 1650. The entire administration system was in the hands of a bureaucracy of scholar-officials called mandarins who came from the landed gentry. The mass of peasant population was povertystricken, and suffered from high rents, high taxes, and shortage of land. There was a very little industry, though some railways and engineering works had been built.
 
+![](assets/page_001_picture_004.png)
+
+![](assets/page_001_picture_005.png)
+
+![](assets/page_001_picture_006.png)
+
 Discontent with the political and economic system resulted in a number of peasant uprisings. The Taiping Rebellion (1850–64) was a major rebellion. In the two opium wars of 1832 and 1848, China was defeated and was compelled to open its ports to western powers. The opening of China to western imperialism led to economic exploitation and the impoverishment of the Chinese people.
 
-The European presence produced a profound hatred of foreigners. This combined with military defeat, led to more pressing demands for reforms from the Westerneducated intellectuals. In 1898, the young Emperor, initiated a series of reforms known as the Hundred Days of Reform. But these reforms aroused tremendous opposition from the powerful conservatives and the Dowager-Empress Tzú Hsi. She imprisoned the Emperor and reversed the reforms.
+The European presence produced a profound hatred of foreigners. This combined with military defeat, led to more pressing demands for reforms from the Western-educated intellectuals. In 1898, the young Emperor, initiated a series of reforms known as the Hundred Days of Reform. But these reforms aroused tremendous opposition from the powerful conservatives and the Dowager-Empress Tzú Hsi. She imprisoned the Emperor and reversed the reforms.
 
 **(b) The Chinese Revolution 1911**
 
@@ -48,11 +63,9 @@ army mutinied and the revolt spread. Provincial governors removed the Manchu gar
 
 **(c) Yuan Shih-kai and After**
 
-![](assets/page_002_picture_005.png)
-
 The unity of China under Yuan Shih-kai lasted for four years. On his death in 1916 a new President was appointed for the next twelve years but the government was central only in name.
 
-*Yuan Shih-kai*
+![*Yuan Shih-kai*](assets/page_002_picture_005.png)
 
 **(d) Communist Party of China**
 
@@ -72,11 +85,9 @@ The World After World War II
 
 After the death of Sun Yat Sen, the leader of the Kuomintang was Chiang Kai-shek. While the Communist Party was under Mao Tse Tung and Chou En Lai. As an avowed critic of Communists, Chiang removed all of them from important positions in the party. The communists increased their influence among the workers and peasants and obtained recruits for their army. The Kuomintang represented the interests of the landlords and capitalists. In 1928, he was successful in capturing Peking. Once again there was a central government in China.
 
-![](assets/page_003_picture_002.png)
+![*Chiang Kai-shek*](assets/page_003_picture_002.png)
 
-![*Chiang Kai-shek*](assets/page_003_picture_003.png)
-
-*Chou En Lai*
+![*Chou En Lai*](assets/page_003_picture_003.png)
 
 **Mao as Organizer of Peasants**
 
@@ -114,27 +125,23 @@ The United-States refused to recognize the People's Republic of China for more t
 
 ### 4.2 Cold War: Rivalry between the US and the Soviet Union
 
-**1. Truman's Policy of Containment of Communism**
-
-![](assets/page_004_picture_002.png)
+## 1. Truman's Policy of Containment of Communism
 
 In 1948 the Soviets had established socialist governments in the countries of eastern Europe that had been liberated from the Nazis by the Soviet Army. Truman, the president of USA, pursued
 
-*Truman*
+![*Truman*](assets/page_004_picture_002.png)
 
 a policy of containment of communism. The Soviets were however determined not only to maintain control of eastern Europe, but also keen on spreading Communism world-wide.
 
 Cold War: The rivalry that developed after World War II between the US and the USSR and their respective allies created tension which is referred to as Cold War. They did not take recourse to weapons. Instead they waged war on political, economic and ideological fronts.
 
-**2. Marshall Plan**
+## 2. Marshall Plan
 
 The US conceived the Marshall Plan to bring the countries in western Europe under its influence. The plan sought to help the countries of Europe with American dollars to facilitate their early recovery from the destruction caused by the Second World War.
 
-![](assets/page_004_picture_005.png)
+![*Marshall*](assets/page_004_picture_005.png)
 
 The United States was much concerned that poverty, unemployment, and dislocation caused by the post-World War II period were increasing the appeal of communist parties in western Europe. The Secretary of State,
-
-*Marshall*
 
 George C. Marshall, advanced the idea of a European self-help programme to be financed by the United States. Sixteen nations, became part of this programme and benefited. Administrative and technical assistance was offered through the Economic Cooperation Administration (ECA) of the United States. Marshall Plan funding ended in 1951.
 
@@ -182,11 +189,9 @@ The NAM held its first conference at Belgrade in 1961, under the leadership of T
 
 ### 4.6 The Cuban Revolution
 
-![](assets/page_005_picture_005.png)
-
 The United States had its satellite states in Central America (Honduras, El Salvador, Nicaragua, Panama and Guatemala), the Caribbean (Cuba, the Dominion Republic and Haiti) and east Asia (the Philippines, South Korea, South Vietnam and Thailand). These states were governed by ruling groups made up of military personnel, landed gentry and occasionally of local capitalists.
 
-*Fidel Castro*
+![*Fidel Castro*](assets/page_005_picture_005.png)
 
 After Castro took power, the US-owned oil refineries on the island refused to process Russian oil. Castro nationalized them. The US retaliated by ending the arrangement by which it bought the bulk of Cuba's sugar. Castro nationalized the US-owned sugar companies and ended the US monopolies in electricity and telephones. All these gravely threatened American economic interests.
 
@@ -334,14 +339,21 @@ Gorbachev made a last attempt to take a hard line against the disruptionist only
 
 **SUMMARY**
 
-The World After World War II
+- The history of China becoming a Communist country in the aftermath of Second War is narrated with the portrayal of developments there after the revolution of 1911.
+- Rivalry between the US and the USSR, leading to the division of world into two military blocs and the significance of NATO and Warsaw Pact, are highlighted.
+- Cold War developments are illustrated with cases of Korean War, Cuban Missile Crisis, Arab-Israeli Wars and Vietnam War.
+- Launch of Non-Aligned Movement, representing the view-points of Third World countries, is described.
+- Establishment of Council of Europe to act independently of the influence of USA that later developed into European Common Market and into European Union today is explained. 04_History_Unit_4_EM.indd 5004_History_Unit_4_EM.indd 50 1/20/2025 3:45:52 PM1/20/2025 3:45:52 PM 51 The World After World War II I Choose the correct answer 1. Which American President followed the policy of containment of Communism?. a) Woodrow Wilson b) Truman c) Theodore Roosevelt d) Franklin Roosevelt 2. When was People’s Political Consultative Conference held in China? a) September 1959 b) September 1948 c) September 1954 d) September 1949 3. The United States and European allies formed to resist any Soviet aggression in Europe. a) SEATO b) NATO c) CENTO d) Warsaw Pact 4. Who became the Chairman of the PLO’s Executive Committee in 1969? a) Hafez al-Assad b) Y asser Arafat c) Nasser d) Saddam Hussein 5. When was North and South Vietnam united? a) 1975 b) 1976 c) 1973 d) 1974 6. When was the Warsaw Pact dissolved? a) 1979 b) 1989 c) 1990 d) 1991 II Fill in the blanks 1. was known as the “Father of modern China” . 2. In 1918, the society for the study of Marxism was formed in University. 3. After the death of Dr. Sun Y at Sen, the leader of the Kuomintang party was . 4. treaty is open to any Arab nation desiring peace and security in the region. 5. The treaty of provided for mandates in Turkish -Arab Empire. 6. Germany joined the NATO in . 7. was the Headquarters of the Council of Europe. 8. treaty signed on February 7, 1992 created the European Union.
 
-![](assets/page_011_picture_005.png)
+**GLOSSARY**
 
-![*Yeltsin*](assets/page_011_picture_006.png)
-
-*Gorbachev*
-
-and held Gorbachev under house arrest. But other military units refused to back them and as a result power fell into the hands of Boris Yeltsin, a reformer backed by the West.
-
-In the meantime, three Baltic States had formally left the Soviet Union, they were Estonia, Latvia, and Lithuania. They were admitted to the U.N. as independent countries. In November 1991, eleven republics (Ukraine, Georgia, Belarus, Armenia, Azerbaijan, Kazakhstan, Kyrgyzstan, Moldova, Turkmenistan, Tajikistan and Uzbekistan) announced secession from the Soviet Union. Instead, they declared they would establish a Commonwealth of Independent States. On 25 December, Gorbachev announced his resignation. For six days the Soviet Union continued to exist only in name and at midnight on 31 December 1991, it was formally dissolved. The USSR was no more.
+|  |  |  |
+| --- | --- | --- |
+| antagonistic | acting against or indicating | பகையுணர்வு கொ ண்ட |
+| wriggle out | to avoid doing something | நழுவுதல் |
+| ascension | the act of rising to an important position or a higher level, a movement upward | வளர்ச்சி, உயர்வு |
+| disillusioned | disappointed on finding out something is not as good as hoped | அதிருப்தி |
+| abstaining | restrain oneself from doing something | விலகியிருத்தல், ஒதுங்கியிருத்தல் |
+| embitter | cause to feel bitter – to make hateful | வெறுப்புணர்ச்சி, கசப்புணர்வு |
+| incapacitated | lacking in or deprived of strength or power | திறனற்றதாக்குதல், முடமாக்குதல் |
+| Photo by M. Helmings - Contrast Photography - Courtesy of Photo Products Inc. Photo by M. Helmings - Contrast Photography - Courtesy of Photo Products Inc. | the use of harmful bacteria as a weapon | நுண்ணுயிரியல் ஆயுதங்கள் |

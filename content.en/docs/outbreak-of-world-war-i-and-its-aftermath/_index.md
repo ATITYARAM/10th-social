@@ -6,19 +6,33 @@ weight: 1
 summary: "The causes, course and consequences of the First World War, including imperialism, militarism, nationalism and the political changes that followed the war."
 ---
 
-# Chapter 1
+**Unit - 1**
 
-# **Outbreak of World War I and Its Aftermath**
+**Outbreak of World War I and Its Aftermath**
+
+![](assets/page_001_picture_002.png)
 
 **Learning Objectives**
 
 **To acquaint ourselves with**
 
+![](assets/page_001_picture_003.png)
+
+![](assets/page_001_picture_005.png)
+
+- The race for colonies leading to rivalry and clashes among the great powers of Europe
+- Emergence of Japan as the strongest and most aggressive power in East Asia
+- Colonialism's impact on Africa
+- Causes, course and results of the First World War
+- Treaty of Versailles and its provisions
+- Causes, course and outcome of the Russian Revolution
+- Foundation, functioning and failure of the League of Nations
+
 **Introduction**
 
 The year 1914 is a turning point in world history. The political and social processes that began in 1789, culminated in the First World War that broke out in that year and decisively shaped the course of the twentieth century. Historians therefore call this as 'the long nineteenth century'. This was the first industrial war that drew on the economic resources of the entire world, and also affected large sections of the civilian population. The political map of the world was redrawn. Three major empires lay shattered by the end of the War: Germany, Austria–Hungary, and the Ottomans. The biggest outcome of the War was the Russian Revolution. It was a unique event, as well as the first revolution of its kind in world history. For the first time, countries tried to bring about world peace through the League of Nations. In this lesson, we discuss the circumstances leading to the outbreak of the First World War and its repercussions, including the Russian Revolution and the formation of an international peace organisation, namely the League of Nations.
 
-![](assets/page_001_picture_005.png)
+1
 
 ![](assets/page_001_picture_006.png)
 
@@ -29,8 +43,6 @@ The year 1914 is a turning point in world history. The political and social proc
 The aim of capitalistic industry was to produce more and more. The surplus wealth thus produced was used to build more factories, railways, steamships and other such undertakings. Revolution in the means of communication and transportation in the latter half of the nineteenth century facilitated the process of European expansion in Africa and other places.
 
 A striking feature of nineteenth century was that Europe emerged as the dominant power, while Asia and Africa were colonized and exploited. Within Europe, England held a pre-eminent position, as the world leader of capitalism. An ever-growing demand for markets and raw materials made the capitalist powers race around the world for expanding their empire for exploitation.
-
-1
 
 **Rise of Monopoly Capitalism**
 
@@ -68,11 +80,15 @@ After 1905, Japan took control of Korean domestic and foreign policy. The assass
 
 In 1876, barely 10 percent of Africa was under European rule. By 1900, practically the
 
+![](assets/page_003_picture_003.png)
+
 ![](assets/page_003_picture_004.png)
 
-whole of Africa was colonised. Britain, France and Belgium had divided the continent between them, leaving a few areas for Germany and Italy. Britain, France, Russia and Germany also established "spheres of influence" in China. Japan took over Korea and Taiwan. France conquered Indo-China. The US took the Philippines from Spain. Britain and Russia agreed to partition Iran.
+![](assets/page_003_picture_005.png)
 
 3
+
+whole of Africa was colonised. Britain, France and Belgium had divided the continent between them, leaving a few areas for Germany and Italy. Britain, France, Russia and Germany also established "spheres of influence" in China. Japan took over Korea and Taiwan. France conquered Indo-China. The US took the Philippines from Spain. Britain and Russia agreed to partition Iran.
 
 The first European attempts to carve out colonies in Africa resulted in bloody battles. The French had to fight a long and bitter war to conquer Algeria and Senegal. The British lost to the Zulus (1879) and to the Sudanese Army (1884). The Italian army suffered a devastating defeat at the hands of an Ethiopian army at Adowa (1896).
 
@@ -198,11 +214,9 @@ Germany ultimately surrendered in November 1918. The armistice took effect from 
 
 **Peace Conference in Paris**
 
-![](assets/page_007_picture_005.png)
-
 The Peace Conference opened in Paris in January 1919, two months after the signing of the armistice. Woodrow Wilson (USA), Lloyd George (Prime Minister of England) and Clemenceau (Prime Minister
 
-*A News paper Report*
+![*A News paper Report*](assets/page_007_picture_005.png)
 
 of France) played a very important part in the deliberations.
 
@@ -261,6 +275,10 @@ Russia were brought to a head by the vast losses and sufferings caused by the Wa
 
 In Russia Peter the Great and Catherine II attempted westernisation without changing the social conditions. The Russian peasants were serfs tied to lands owned by wealthy Russians. After Russia's defeat in the Crimean War, some reforms were introduced. In 1861 Tsar Alexander II abolished serfdom and emancipated the serfs. But they were not given enough land to subsist. These peasants became the powder keg for the revolution. The labourers and workers whose number had increased on
 
+9
+
+![](assets/page_009_picture_005.png)
+
 account of industrialisation were aggrieved as they got very low wages.
 
 **Role of Revolutionaries**
@@ -269,11 +287,9 @@ The spread of revolutionary ideas among the intelligentsia and their repression 
 
 **Autocracy of the Tsar**
 
-![](assets/page_009_picture_006.png)
-
 Tsar Nicholas II of Romanov dynasty had little experience of government. His wife Tsarina Alexandra was a dominant personality and Nicholas was under her strong influence. Determined that Russia
 
-*Tsar Nicholas II*
+![*Tsar Nicholas II*](assets/page_009_picture_006.png)
 
 should not be left out in the scramble for colonial possessions, Nicholas encouraged Russian expansion in Manchuria. This provoked a war with Japan in 1904. The resulting Russian defeat led to strikes and riots. On 22 January 1905 Father Gapon, a priest, organised a march of men, women and children on the Tsar's Winter Palace in St. Petersburg demanding a representative national assembly and agrarian and industrial reforms. But police and soldiers fired on the procession. Hundreds were killed and many thousands wounded. The events of this day (known as Bloody Sunday) led to riots, strikes and violence. Nicholas was forced to grant a constitution and establish a parliament, the Duma. This was no longer satisfactory to the left-wing parties that formed a Soviet (council) of worker's delegates in St Petersburg, led by Trotsky.
 
@@ -282,8 +298,6 @@ should not be left out in the scramble for colonial possessions, Nicholas encour
 The outbreak of the First World War had temporarily strengthened the monarchy, as
 
 Russia allied to France and Britain. As there was rumour of a palace revolution. Nicholas made himself the Commander-in-Chief of the army. At the end of 1916, Rasputin, who had a domineering influence over the Tsar and the Tsarina, was murdered by a member of the Tsar's family. The members of the St. Petersburg Soviet were arrested. Whenever the Duma opposed the Tsar's move, it was dissolved and fresh elections held. Without change of government policy, the fourth Duma ended with the revolution of 1917.
-
-9
 
 **Popular Uprisings**
 
@@ -366,3 +380,28 @@ Since it lacked the military power of its own, it could not enforce its decision
 The founders of this peace organisation underestimated the power of nationalism. The principle of "collective security' could not be applied in actual practice.
 
 When Italy, Japan and Germany, headed by dictators, refused to be bound by the orders of the League, Britain and France were the only major powers to act decisively.
+
+**SUMMARY**
+
+- Capitalistic countries’ ever growing demand for markets and raw materials leading to scramble for colonies and the resultant clashes amongst great powers in Europe are discussed.
+- Rise of Japan as an Imperial Power in Asia is highlighted
+- Division of Europe into two warring camps and the resultant alliances and counter-alliances are detailed.
+- Important factors responsible for the outbreak of World War I such as growth of violent forms of Nationalism, aggressive attitude of Germany, France’s hostility towards Germany for the loss of its territories, Alsace and Lorrain, power politics in Balkans are explained.
+- America’s entry into the War in the context of launch of submarine battles by Germany and the decisive victory won by the Allies are outlined.
+- Paris Peace Conference and the provisions of Versailles Treaty are analysed.
+- Fallout of the First World War, with focus on Russian Revolution causes, course and impact are elaborated.
+- First world peace organisation the League of Nations and its role in preventing wars and promoting peace are critically examined.
+
+**GLOSSARY**
+
+|  |  |  |
+| --- | --- | --- |
+| monopoly | exclusive possession or control | முற்றுரிமை |
+| devastating | பேரழிவு | devastating |
+| jingoism | patriotism, especially in the country of aggressive foreign policy கண் மூடித்தனமாக நாட்டுப்பற்று | கண் மூடித்தனமான நாட்டுப்பற்று கண் மூடித்தனமான நாட்டுப்பற்று கண் மூடித்தனமான நாட்டுப்பற்று கண் மூடித்தனமான நாட்டுப்பற்று கண் மூடித்தனமான நாட்டுப்பற்று கண் மூடித்தனமான நாட்டுப்பற்று |
+| chauvinism | reme patriotism | அதிதீவிரப்பற்று |
+| kultur | thinking highly of German civilization 6 and culture 6 | ஜெர்மானியக் கலாச்சாரத்தை மிக உயர்வாக நினைப்பது |
+| repulse | back | repulse |
+| torpedo | மூழ்கடி | torpedo |
+| bourgeois typically with reference to its percentage materialistic values or convention | முதலாளித்துவம் | bourgeois |
+| intelligentsia | intellectuals or highly educated people as a group, especially when regarded en as possessing culture and political id influence | அறிவுஜீவிகள், நுண்ணறிவாளர்கள் |

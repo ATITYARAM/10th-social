@@ -6,21 +6,30 @@ weight: 7
 summary: "The growth of anti-colonial movements in India and the emergence of political organisations and ideas that contributed to Indian nationalism."
 ---
 
-# Chapter 7
+**Unit - 7**
 
-# **Anti-Colonial Movements and the Birth of Nationalism**
+Anti-Colonial Movements and the Birth of Nationalism
 
 **Learning Objectives**
 
 **To acquaint ourselves with**
 
-**Introduction**
+- The nature of tribal and peasant revolts against the British.
+- Contributory factors for the outbreak of the Great Rebellion of 1857 and the subsequent changes in the British approach to governing India.
 
-On 23 June 1757, the Nawab of Bengal Siraj-ud-daulah was defeated by the East India Company at the Battle of Plassey. The battle was orchestrated by Robert Clive, commander-inchief of the East India Company, who managed to get the clandestine support from Mir Jafar, the uncle of Siraj-ud-daulah and the chief of the Nawab's army. Clive was helped by the Jagat Seths (moneylenders from Bengal) who were aggrieved by Siraj-ud-daulah's policy. Between 1757 and 1760, the company received ₹ 22.5 million from Mir Jafar, who became the new Nawab of Bengal. The same money was later invested to propel the industrial revolution in Britain, which rapidly mechanised the British textile industry. On the other hand, India was led to the path of de-industrialisation and forced to create a market for the products manufactured in Britain. The plunder of India by the East India Company continued for another 190 years.
+![](assets/page_001_picture_002.png)
 
 ![](assets/page_001_picture_004.png)
 
 ![](assets/page_001_picture_005.png)
+
+- Factors leading to the formation of the Indian National Congress and the perspectives of the early nationalists.
+- Divide and rule policy of the British behind the Partition of Bengal (1905) and the launch of Swadeshi movement in Bengal.
+- Background for the launch of Home Rule Movement.
+
+**Introduction**
+
+On 23 June 1757, the Nawab of Bengal Siraj-ud-daulah was defeated by the East India Company at the Battle of Plassey. The battle was orchestrated by Robert Clive, commander-inchief of the East India Company, who managed to get the clandestine support from Mir Jafar, the uncle of Siraj-ud-daulah and the chief of the Nawab's army. Clive was helped by the Jagat Seths (moneylenders from Bengal) who were aggrieved by Siraj-ud-daulah's policy. Between 1757 and 1760, the company received ₹ 22.5 million from Mir Jafar, who became the new Nawab of Bengal. The same money was later invested to propel the industrial revolution in Britain, which rapidly mechanised the British textile industry. On the other hand, India was led to the path of de-industrialisation and forced to create a market for the products manufactured in Britain. The plunder of India by the East India Company continued for another 190 years.
 
 In this lesson, the story of resistance and a varied range of responses against the British rule in the Indian subcontinent from the early and mid-nineteenth century to the early twentieth century are outlined.
 
@@ -57,11 +66,9 @@ and all wealth should be equally enjoyed by the common folk. Dudu Mian laid emph
 
 **Wahhabi Rebellion in Barasat**
 
-![](assets/page_002_picture_005.png)
-
 The Wahhabi rebellion was an antiimperial and anti-landlord movement. It originated in and around 1827, in the Barasat region of Bengal. It was led by an Islamic preacher Titu Mir who was deeply influenced
 
-*Titu Mir*
+![*Titu Mir*](assets/page_002_picture_005.png)
 
 by the Wahhabi teachings. He became an influential figure among the predominately Muslim peasantry oppressed under the coercive zamindari system.
 
@@ -83,9 +90,9 @@ Santhals , scattered in various parts of eastern India, when forced to move out 
 
 Around 1854 activities of social banditry led by a person named Bir Singh was reported from different places. These were directed against mahajans and traders.
 
-![](assets/page_003_picture_003.png)
-
 ![*Sidhu Kanu*](assets/page_003_picture_002.png)
+
+![](assets/page_003_picture_003.png)
 
 In 1855, two Santhal brothers Sidhu and Kanu proclaimed that they had received a divine message from the God, asking them to lead the rebellion.
 
@@ -109,7 +116,7 @@ In 1857, British rule witnessed the biggest challenge to its existence. Initiall
 
 **(a) Causes**
 
-**1. Annexation Policy of British India**
+## 1. Annexation Policy of British India
 
 In the 1840s and 1850s, more territories were annexed through two major policies:
 
@@ -117,11 +124,13 @@ The Doctrine of Paramountcy. British claimed themselves as paramount, exercising
 
 The Doctrine of Lapse. If a native ruler did not have male heir to the throne, the territory was to 'lapse' into British India upon the death of the ruler. Satara, Sambalpur, parts of the Punjab, Jhansi and Nagpur were annexed by the British through the Doctrine of Lapse.
 
-**2. Insensitivity to Indian Cultural Sentiments**
+## 2. Insensitivity to Indian Cultural Sentiments
 
 In 1806, the sepoys at Vellore mutinied against the new dress code, which prohibited
 
 Anti-Colonial Movements and the Birth of Nationalism
+
+78
 
 Indians from wearing religious marks on their foreheads and having whiskers on their chin, while proposing to replace their turbans with a round hat. It was feared that the dress code was part of their effort to convert soldiers to Christianity.
 
@@ -141,23 +150,25 @@ On 29 March, a sepoy named Mangal Pandey assaulted his European officer. His fel
 
 **Bahadur Shah Proclaimed as Emperor of Hindustan**
 
-On 11 May 1857, a band of sepoys from Meerut marched to the Red Fort in Delhi. The sepoys were followed by an equally exuberant crowd who gathered to ask the Mughal Bahadur Shah II
-
 ![](assets/page_004_picture_005.png)
 
-78
+On 11 May 1857, a band of sepoys from Meerut marched to the Red Fort in Delhi. The sepoys were followed by an equally exuberant crowd who gathered to ask the Mughal Bahadur Shah II
+
+![](assets/page_005_picture_003.png)
 
 ![](assets/page_005_picture_004.png)
 
-Emperor Bahadur Shah II to become their leader. After much hesitation he accepted the offer and was proclaimed as the Shahenshah-eHindustan (the Emperor of Hindustan). Soon the rebels captured the north-western province and Awadh. As the news of the fall of Delhi reached the Ganges valley, cantonment after cantonment mutinied till, by the beginning of June, British rule in North India, except in Punjab and Bengal, had disappeared.
+![](assets/page_005_picture_005.png)
 
 79
+
+Emperor Bahadur Shah II to become their leader. After much hesitation he accepted the offer and was proclaimed as the Shahenshah-eHindustan (the Emperor of Hindustan). Soon the rebels captured the north-western province and Awadh. As the news of the fall of Delhi reached the Ganges valley, cantonment after cantonment mutinied till, by the beginning of June, British rule in North India, except in Punjab and Bengal, had disappeared.
 
 **Civil Rebellion**
 
 The mutiny was equally supported by an aggrieved rural society of north India. Sepoys working in the British army were in fact peasants in uniform. They were equally affected by the restructuring of the revenue administration. The sepoy revolt and the subsequent civil rebellion in various parts of India had a deep-rooted connection with rural mass. The first civil rebellion broke out in parts of the North-Western provinces and Oudh. These were the two regions from which the sepoys were predominately recruited. A large number of Zamindars and Taluqdars were also attracted to the rebellions as they had lost their various privileges under the British government. The taluqdar–peasant collective was a common effort to recover what they had lost. Similarly, artisans and handicrafts persons were equally affected by the dethroning of rulers of many Indian states, who were a major source of patronage. The dumping of British manufactures had ruined the Indian handicrafts and thrown thousands of weavers out of employment. Collective anger against the British took the form of a people's revolt.
 
-![*Hanging the rebels in a public place*](assets/page_006_picture_002.png)
+![](assets/page_006_picture_002.png)
 
 Anti-Colonial Movements and the Birth of Nationalism
 
@@ -177,7 +188,9 @@ By the beginning of June 1857, the Delhi, Meerut, Rohilkhand, Agra, Allahabad an
 
 There is hardly any evidence to prove that the rebellion of 1857 was organised and planned. It was spontaneous. However, soon
 
-![*Blowing mutinous sepoys from the guns*](assets/page_006_picture_003.png)
+![*Hanging the rebels in a public place*](assets/page_006_picture_003.png)
+
+*Blowing mutinous sepoys from the guns*
 
 80
 
@@ -219,6 +232,8 @@ Even though they were numerically small they had a national character and capaci
 
 Anti-Colonial Movements and the Birth of Nationalism
 
+82
+
 such as Madras Native Association (1852) East India Association (1866), Madras Mahajana Sabha (1884), Poona Sarvajanik Sabha (1870), The Bombay Presidency Association (1885) and many others.
 
 **(b) Economic Critique of Colonialism**
@@ -229,17 +244,25 @@ Dadabhai Naoroji, Justice Ranade, and Romesh Chandra Dutt, played a significant 
 
 **(c) Objectives and Methods**
 
-![](assets/page_008_picture_004.png)
-
 The formation of the Indian National Congress in 1885 was intended to establish an all India organisation. It was the culmination of attempts by groups of educated Indians politically active in three presidencies: Bombay,
 
-*A.O. Hume*
+![*A.O. Hume*](assets/page_008_picture_004.png)
 
 Madras, and Calcutta. A.O. Hume lent his services to facilitate the formation of the Congress. Womesh Chandra Banarjee was the first President (1885) of Indian National Congress.
 
 The first session of the Indian National Congress was held on 28 December 1885. The early objectives were to develop and consolidate sentiments of national unity; but also professed loyalty to Britain. The techniques included appeals, petitions and delegations to Britain, all done within a constitutional framework. Some of the key demands were the following:
 
-82
+- creation of legislative councils at provincial and central level
+- increasing the number of elected members in the legislative council
+- separating judicial and executive functions
+
+- reducing military expenditure
+- reduction of Home Charges
+- extension of trial by jury
+- holding civil services exams in India as well as in England.
+- police reforms
+- reconsideration of forest laws
+- promotion of Indian industries and an end to unfair tariffs and excise duties.
 
 **(d) Militant Nationalism**
 
@@ -247,11 +270,9 @@ The methods of moderate leaders failed to yield any substantive change in the Br
 
 ### 7.5 Partition of Bengal
 
-![](assets/page_009_picture_002.png)
-
 Partition of Bengal in 1905 was the most unpopular of all. The partition led to widespread protests all across India, starting a new phase of the Indian national movement.
 
-*Lord Curzon*
+![*Lord Curzon*](assets/page_009_picture_002.png)
 
 The idea of partition was devised to suppress the political activities against the British rule in Bengal by creating a Hindu-Muslim divide.
 
@@ -308,8 +329,34 @@ The Indian national movement was revived and also radicalised during the Home Ru
 
 **(a) Objectives of the Home Rule Movement**
 
+- To attain self-government within the British Empire by using constitutional means.
+- To obtain the status of dominion, a political position accorded later to Australia, Canada, South Africa, and New Zealand.
+- To use non-violent constitutional methods to achieve their goals.
+
 ![*Signatories of Lucknow Pact*](assets/page_010_picture_005.png)
 
 **(b) Lucknow Pact (1916)**
 
 The Home Rule Movement and the subsequent reunion of moderate and the militant nationalists opened the possibility of fresh talks with the Muslims. Under the Lucknow Pact (1916), the Congress and the Muslim League agreed that there should be self-government in India as soon as possible. In return, the Congress leadership accepted the concept of separate electorate for Muslims.
+
+**SUMMARY**
+
+- The latter half of nineteenth century British India was replete with revolts of peasants and tribals against colonial political and economic domination.
+- The great rebellion of 1857 was the culmination of various anti-British tendencies led by the depossessed feudal chieftains with an agenda to restore the Pre-colonial order.
+- Even though the leaders of the Revolt lacked vision and were guided by local ambitions, it was a progressive act in terms of their effort to resist and challenge a despotic alien government.
+- The Indian National Movement, building public opinion against the exploitative and oppressive British rule, inspired the younger generation to become part of the future militant anti-colonial struggles.
+- The Swadeshi Movement helped to enhance the participation of masses in nationalist politics.
+
+**GLOSSARY**
+
+|  |  |  |
+| --- | --- | --- |
+| orchestrated | organized to achieve a desired effect | நினைத்ததை நிறைவேற்ற போடப்பட்ட திட்டம் |
+| secret | இரகசிய | clandestine |
+| re-establishing | மீட்கின்ற | restorative |
+| property leased by one lessee to another | கீழ்க்குத்தகைக்கு விடுதல், உள் குத்தகைக்கு விடுதல் | subletting |
+| equal rights for all people | அனைத்து மக்களுக்கும் சமமான | egalitarian |
+| forcible | வலுக்கட்டடாயமாக | coercive |
+| the practice of taking something from an unwilling person by physical force | தாக்குதல் மூலம் பணம், பொருள் பறித்தல் | extortion |
+| dissatisfied, frustrated | நிறைவில்லலாத, திருப்தியற் | disgruntled |
+| extremely bad, deep and bottomle | மிக மோசமான, படுபாதாளமான | abysmal |

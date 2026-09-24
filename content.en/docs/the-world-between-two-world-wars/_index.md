@@ -6,9 +6,12 @@ weight: 2
 summary: "The political, economic and social developments between the First and Second World Wars, including the Great Depression, fascism and the rise of dictatorships."
 ---
 
-# Chapter 2
 
-# **The World between Two World Wars**
+**Unit - 2**
+
+**The World between Two World Wars**
+
+![](assets/page_001_picture_002.png)
 
 **Learning Objectives**
 
@@ -29,6 +32,12 @@ The First World War led to the expansion of certain industries in the hope that 
 **Stock Market Crash in the US**
 
 The first huge crash occurred on 24 October 1929. This discouraged investors and consumers to such an extent that more and more people began to sell their shares and dispose of their stocks. But there were no buyers. This was followed by the failure of American banks. The American financiers were forced to withdraw their own funds invested abroad.
+
+![](assets/page_001_picture_004.png)
+
+![](assets/page_001_picture_005.png)
+
+![](assets/page_001_picture_006.png)
 
 **Breakdown of the International System of Exchange**
 
@@ -54,11 +63,9 @@ Fascism is a form of radical authoritarian ultra-nationalism, characterised by d
 
 **Fascists under Mussolini**
 
-![](assets/page_002_picture_004.png)
-
 In the 1924 elections, after intimidation of the electors, 65 per cent of the votes were cast for the Fascists. Matteotti, a socialist leader, who questioned the fairness of the elections was
 
-*Mussolini*
+![*Mussolini*](assets/page_002_picture_004.png)
 
 murdered. The opposition parties boycotted the Parliament in protest. Mussolini reacted by banning opposition parties and censoring the press. Opposition leaders were killed or imprisoned. Assuming the title of Il Duce (the leader), in 1926 he became a dictator with power to legislate. He passed a law forbidding strikes and lockouts. Unions and employers were organized into corporations. In 1938 Parliament was abolished and was replaced by a body representing the Fascist Party and the corporations. This new arrangement bolstered Mussolini's dictatorial control of the economy, as well as enabling him to wield enormous power as head of the administration and the armed forces.
 
@@ -180,11 +187,9 @@ Act passed in 1924 prevented blacks from striking work and from joining trade un
 
 **Apartheid in South Africa**
 
-![](assets/page_007_picture_002.png)
-
 Apartheid, which means separateness, became the racial policy of the Nationalist Party in 1947. From 1950 onwards a series of laws came to be enforced. The whole country was divided
 
-*Nelson Mandela*
+![*Nelson Mandela*](assets/page_007_picture_002.png)
 
 into separate areas for the different races. Marriage between white and non-white was forbidden. Nearly all schools were brought under government control so that education different from that of the Whites could be implemented for Africans. University education was also segregated. Apartheid is based on the belief that the political equality of White and Black in South Africa would mean Black rule. The ANC which fought the practice of racism was banned and its leader Nelson Mandela was put behind bars. Mounting pressure at the global level helped to end the racist regime in South Africa. In 1990 the ban on ANC was lifted and Mandela freed after 27 years. In the elections held subsequently the Africans were allowed to vote and ANC won the election and Mandela
 
@@ -212,13 +217,13 @@ By the late 18 th century, demand for political freedom, administrative autonomy
 
 **Impact of Napoleonic Invasion of Spain and Portugal**
 
-![](assets/page_008_picture_003.png)
-
 ![*Simon Bolivar-*](assets/page_008_picture_002.png)
 
-*Pedro I*
+![*Pedro I*](assets/page_008_picture_003.png)
 
 The American and French Revolutions provided inspiration to the Latin Americans. The Napoleonic invasion of Spain and Portugal in 1808 quickened the process of liberation Struggle in South America. Already the spirit of independence was growing under the leadership of Simon Bolivar, called El Liberator, the liberator. In the case of Brazil, the Portuguese royal family in the context of conquest of Portugal by Napoleon fled from Lisbon and thereby assisted the transition of Brazil from colony to independent nation. Pedro I renouncing the claim to the Portuguese throne declared independence of Brazil.
+
+![](assets/page_008_picture_004.png)
 
 **The Monroe Doctrine**
 
@@ -229,6 +234,8 @@ The fight for independence intensified when Napoleon fell in 1815. But Monroe, t
 Latin American nationalists fought not only Spain and Portugal but also each other. In 1821 Central America seceded from Mexico. Later (1839) Central America itself split into five republics (Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua). Uruguay split from Brazil in 1828. In 1830 Venezuela and Ecuador seceded from Gran Columbia, the republic created by Bolivar.
 
 ![*Latin America*](assets/page_008_picture_005.png)
+
+![](assets/page_008_picture_006.png)
 
 23
 
@@ -248,12 +255,37 @@ The situation created by the Great Depression made it impossible for oligarchic
 
 **SUMMARY**
 
--  Intensification of anti-colonial struggles commenced from the end of the First
--  The harsh decisions in the Paris Peace Conference against the defeated countries destabilised
-- the ruling regimes and created a climate for the rise of fascism especially in Italy and Germany.
--  The economic slump originating in the US in 1929 and subsequently affecting all capitalist
-- countries in the world resulted in changes in polity and society.
--  Decolonisation process was quickened during the inter-war period in India.
--  The Munroe Doctrine prevented colonisation of Latin American countries by European powers
-- and thereby ensured early sovereign status to them. Later this was regarded by Latin Americans as a
-- cover for American intervention and exploitation of the resources of their countries.
+- Intensification of anti-colonial struggles commenced from the end of the First World War
+- The harsh decisions in the Paris Peace Conference against the defeated countries destabilised the ruling regimes and created a climate for the rise of fascism especially in Italy and Germany.
+- The economic slump originating in the US in 1929 and subsequently affecting all capitalist countries in the world resulted in changes in polity and society.
+- Decolonisation process was quickened during the inter-war period in India.
+- The Munroe Doctrine prevented colonisation of Latin American countries by European powers and thereby ensured early sovereign status to them. Later this was regarded by Latin Americans as a cover for American intervention and exploitation of the resources of their countries.
+
+**GLOSSARY**
+
+Latin America protested American intervension and disliked their "dollar imperialism". The opposition to political intervention produced a change in US policy after 1933. Franklin D. Roosevelt in his "Good Neighbour" policy agreed that the US would not intervene in the internal affairs of any state, and would give economic and technical assistance to Latin America.
+
+Dollar Imperialism, the term used to describe the policy of the USA in maintaining and dominating over distant lands through economic aid.
+
+|  |  |  |
+| --- | --- | --- |
+| solidarity | a bond of unity, support for a common caus | ஒற்றுமை உணர்வு, பொதுக்காரியத்திற்கான ஆதரவு |
+| slump | a sudden severe or prolonged fall in the price | விலைவீழ்ச்சி, சரிவு |
+| bankruptcy | insolvency, financial ruin | திவால், கடன் தீர்க்க முடியா நிலை |
+| devaluation | a decrease in the value of a country's currency | பணமதிப்புக் குறைதல் |
+| intimidation | threat, the act of making fearful | மிரட்டல், அச்சுறுத்தல் |
+
+regimes to accommodate the rising expectations of several assertive groups. In Mexico, there was violent social protest involving dissatisfied segments of the oligarchy, middle-class intellectuals, and peasant communities. Elsewhere electoral reform enabled newer social groups to obtain political power through the ballot box.
+
+![](assets/page_010_picture_004.png)
+
+|  |  |  |
+| --- | --- | --- |
+| bolstered | strengthened | வலுப்படுத்தினர் |
+| demoralized | having lost confidence or hope, disheartened | மனத்தளர்ச்சி அடைதல், நம்பிக்கை இழத்தல் |
+| manipulate | control or influence a person or situation cleverly, unfairly to achieve a specific purpose | கெட்டிக்காரத்தனமாய் அல்லது சூழ்ச்சியாய் கையாளு |
+| annulling | declaring invalid or null and void | செல்லலாதாக்கல், ரத்துசெய்தல் |
+
+![](assets/page_010_picture_005.png)
+
+![](assets/page_010_picture_006.png)

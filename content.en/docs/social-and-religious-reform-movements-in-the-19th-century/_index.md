@@ -6,13 +6,27 @@ weight: 5
 summary: "The major social and religious reform movements of the nineteenth century and their efforts to address social inequalities, education and religious practices."
 ---
 
-# Chapter 5
+Unit - 5
 
-# **Social and Religious Reform Movements in the 19th Century**
+Social and Religious Reform Movements in the 19th Century
 
 **Learning Objectives**
 
 **To acquaint ourselves with**
+
+- The influence of Western ideas and Christianity in creating a new awakening in 19th century British India.
+- Contestation in the social and religious sphere – opposition to practices like sati, slavery, untouchability, and child marriage.
+- Opposition to idolatry, rituals and superstitious beliefs.
+
+![](assets/page_001_picture_002.png)
+
+![](assets/page_001_picture_004.png)
+
+![](assets/page_001_picture_005.png)
+
+- Contribution of Brahmo Samaj, Arya Samaj, Ramakrishna Mission, Theosophical Society and Aligarh Movement to the regeneration of India.
+- Role played by prominent personalities in bringing about this awakening amongst Parsis and Sikhs.
+- Social movement of Jyotiba Phule and reform movements in Kerala and Tamil Nadu.
 
 **Introduction**
 
@@ -36,9 +50,9 @@ Rammohan Roy founded the Brahmo Samaj on 20 August 1828. He opened a temple in C
 
 Social and Religious Reform Movements in the 19th Century
 
-**(b) Maharishi Debendranath Tagore**
-
 ![](assets/page_002_picture_003.png)
+
+**(b) Maharishi Debendranath Tagore**
 
 After the death of Rammohan Roy (1833), Maharishi Debendranath Tagore (1817–1905), the poet Rabindranath Tagore's father, carried on the work. He laid down four articles of faith:
 
@@ -61,11 +75,9 @@ left the Samaj and founded a new organization. Debendranath's organization, ther
 
 Another outstanding reformer in Bengal was Ishwar Chandra Vidyasagar (1820–1891).
 
-![](assets/page_003_picture_002.png)
-
 While Ram Mohan Roy and others looked to western rationalist ideas to reform society, Vidyasagar argued that the Hindu scriptures were progressive. He provided evidence from scriptures that there was no sanction for burning of widows or for the prohibition on
 
-*Iswar Chandra Vidyasagar*
+![*Iswar Chandra Vidyasagar*](assets/page_003_picture_002.png)
 
 the remarriage of widows. He wrote a number of polemical tracts, and was the pioneer of modern Bengali prose. He played a leading role in promoting education of girls and helped them in setting up a number of schools. He dedicated his whole life for the betterment of the child widows of the Hindu society. The movement led by Vidyasagar, resulted in the Widows' Remarriage Reform Act of 1856. This Act was intended to improve the lot of child widows and save them from perpetual widowhood.
 
@@ -77,9 +89,9 @@ The Maharashtra region was another region where reform activities gained steam. 
 
 was the founder of the Widow Marriage Association (1861), the Poona Sarvajanik Sabha (1870) and the Deccan Education Society (1884).
 
-![](assets/page_003_picture_006.png)
-
 ![*Dr. Atma Ram Pandurang*](assets/page_003_picture_005.png)
+
+![](assets/page_003_picture_006.png)
 
 *M.G. Ranade*
 
@@ -87,11 +99,9 @@ was the founder of the Widow Marriage Association (1861), the Poona Sarvajanik S
 
 **(a) Swami Dayanand Saraswati and Arya Samaj 1875**
 
-![](assets/page_003_picture_007.png)
-
 In the Punjab, the reform movement was spearheaded by the Arya Samaj. It was founded (1875) by a wandering ascetic in the western Gangetic plain, Swami Dayanand Saraswati (1824–83).
 
-*Swami Dayanand Saraswati*
+![*Swami Dayanand Saraswati*](assets/page_003_picture_007.png)
 
 Swami Dayanand later settled in the Punjab to preach his ideas. His book, Satyarthaprakash, enjoyed wide circulation. He declared the practices such as child marriage, the prohibition of widow remarriage, and the alleged polluting effects of foreign travel had no scriptural sanction. The positive principles enunciated by Dayanand were: strict monotheism, condemnation of idolatry, and rejection of Brahman domination of ritual and social practices. He also rejected superstitious beliefs in Hinduism and his cry was "go back to Vedas."
 
@@ -103,11 +113,11 @@ The primary achievements of the Arya Samaj were in the field of social reform an
 
 Ramakrishna (l836–86), a simple priest of Dakshineswar near Kolkata, emphasised the spiritual union with god through ecstatic practices such as singing bhajans. An ardent worshipper of goddess Kali, the sacred mother, he declared that the manifestations of the divine mother were infinite. In his view, all religions contain the universal elements which, if practised, would lead to salvation. He said, "Jiva is Siva" (all living beings are God). Service for man, must be regarded as God.'
 
+![*Ramakrishna Paramahamsa*](assets/page_004_picture_002.png)
+
 ![](assets/page_004_picture_003.png)
 
-![*Ramakrishna Mission, Belur Math*](assets/page_004_picture_002.png)
-
-*Ramakrishna Paramahamsa*
+*Ramakrishna Mission, Belur Math*
 
 **Ramakrishna Mission**
 
@@ -117,11 +127,9 @@ Social and Religious Reform Movements in the 19th Century
 
 **(c) Swami Vivekananda**
 
-![](assets/page_004_picture_006.png)
-
 Narendra Nath Datta (l863–1902), later known as Swami Vivekananda, was the prime follower of Ramakrishna Paramahamsa. An educated youth, he was drawn to Ramakrishna's message. Dissatisfied with conventional philosophical positions
 
-*Swami Vivekananada*
+![*Swami Vivekananada*](assets/page_004_picture_006.png)
 
 and practices, he advocated the practical Vedanta of service to humanity and attacked the tendency to defend every institution simply because it was connected with religion. He emphasized a cultural nationalism and made a call to Indian youth to regenerate Hindu society. His ideas bred a sense of self-confidence among Indians who felt inferior in relation to the materialist achievements of the West. He became famous for his addresses on Hinduism at the 1893 World Congress of Religions in Chicago. Despite his fame, he was condemned by orthodox Hindus for suggesting that the lower castes should be allowed to engage in the Hindu rituals from which they were traditionally excluded. Vivekananda's activist ideology rekindled the desire for political change among many western-education young Bengalis. Many of the youths who were involved in the militant nationalist struggle during the Swadeshi movement following the Partition of Bengal were inspired by Vivekananda.
 
@@ -145,9 +153,9 @@ rule to India on the lines of Ireland. Annie Besant spread Theosophical ideas th
 
 Jyotiba Govindrao Phule was born in 1827 in Maharashtra. He opened the first school for "untouchables" in 1852 in Poona. He launched the Satyashodak Samaj (TruthSeekers Society) to stir the non-Brahman masses to self-respect. Phule opposed child marriage and supported widow remarriage. Jyotiba and his wife Savitriba Phule devoted their lives for the upliftment of the depressed classes and women. Jyotiba opened orphanages and homes for widows. His work, Gulamgiri (Slavery) is an important text that summarized many of his radical ideas.
 
-![](assets/page_005_picture_003.png)
+![*Jyotiba Phule and Savitriba Phule*](assets/page_005_picture_003.png)
 
-![*Jyotiba Phule and Savitriba Phule*](assets/page_005_picture_004.png)
+![](assets/page_005_picture_004.png)
 
 **(b) Narayana Guru**
 
@@ -175,7 +183,9 @@ Born in Delhi into a noble Muslim family, Sayyid Ahmed Khan thought that lack
 
 of education, especially modern education, had harmed the Muslims greatly and kept them backward. He exhorted the Muslims to accept Western science and take up government services. He founded a scientific society and translated many English books, especially science books into Urdu. He believed that the interest of the Muslims would be best served if they bonded with the British Government rather than pitch in with the rising nationalist movement. So he advised the Muslims to take to English education and to concentrate on it.
 
-![*Sayyid Ahmed Khan*](assets/page_006_picture_002.png)
+![](assets/page_006_picture_002.png)
+
+*Sayyid Ahmed Khan*
 
 **Aligarh Movement**
 
@@ -211,11 +221,11 @@ In the wake of the gathering influence of Arya Samaj and the Christian missionar
 
 Popularly known as Vallalar, Ramalinga Swamigal or Ramalinga Adigal (1823–1874), was born in Marudhur, a village near Chidambaram. After his father's death, his family moved to his brother's house at Chennai. Despite having no formal education he gained immense scholarship. Ramalinga emphasised the bonds of responsibility and compassion between living beings. He expressed the view that 'those who lack compassion for suffering beings are hard-hearted, their wisdom clouded'. He showed his compassion and mercy on all living beings including plants. This he called Jeevakarunya. He established the Samarasa Vedha Sanmarga Sangam in 1865 and it was renamed "Samarasa Suddha Sanmarga Satya Sanga" which means "Society for Pure Truth in Universal self-hood". Ramalinga also established a free feeding house for everyone irrespective of caste at Vadalur (1867), in the wake of a terrible famine in south India in 1866. His voluminous songs were compiled and published under the title Thiruvarutpa (Songs of Grace).
 
-![](assets/page_007_picture_003.png)
+![](assets/page_007_picture_002.png)
 
-![*Ramalinga Adigal*](assets/page_007_picture_004.png)
+![*Ramalinga Adigal*](assets/page_007_picture_003.png)
 
-*Vadalur Satya Gnana Sabha*
+![*Vadalur Satya Gnana Sabha*](assets/page_007_picture_004.png)
 
 Ramalinga bore witness to hunger and poverty in the country: "I saw poor people, emaciated with hunger and terribly weary, going to every house, yet their hunger was not removed, and my heart suffered intensely. Those who suffer with relentless disease, I saw them in front of me and my heart trembled. I saw those people, poor and of unmatched honor, their hearts weary, and I grew weak."
 
@@ -233,16 +243,25 @@ Pandithar Iyothee Thassar was disappointed with the Hindu dharma, which served a
 
 He started a weekly journal, Oru Paisa Tamilan, in 1907 and published it until his demise in 1914.
 
+![](assets/page_008_picture_006.png)
+
 **SUMMARY**
 
--  The foundation of Brahmo Samaj by Rammohan Roy and the role played by Maharishi Debendranath
-- Tagore and Keshab Chandra Sen in carrying forward the Brahmo Samaj activities after Roy’s death
-- are discussed.
--  The contribution of M.G. Ranade and Prarthana Samaj with which he was associated are examined.
--  The attempts made by Arya Samaj under the aegis of Swami Dayanad Saraswati to reform Hinduism
-- as well as to win converts to the Hindu fold are highlighted.
--  The radical reformer Iswar Chandra Vidyasagar and his strivings for women’s cause are described.
--  The role of Ramakrishna Paramahamsa and his disciple Swami Vivekananda in the transformation
-- of Hinduism is explained.
--  The work done by Jyotiba Phule in Maharashtra and IyotheeThassar in Tamil Nadu to obtain social
-- justice for the marginalized and the deprived sections of the population is reviewed.
+- The foundation of Brahmo Samaj by Rammohan Roy and the role played by Maharishi Debendranath Tagore and Keshab Chandra Sen in carrying forward the Brahmo Samaj activities after Roy’s death are discussed.
+- The contribution of M.G. Ranade and Prarthana Samaj with which he was associated are examined.
+- The attempts made by Arya Samaj under the aegis of Swami Dayanad Saraswati to reform Hinduism as well as to win converts to the Hindu fold are highlighted.
+- The radical reformer Iswar Chandra Vidyasagar and his strivings for women’s cause are described.
+- The role of Ramakrishna Paramahamsa and his disciple Swami Vivekananda in the transformation of Hinduism is explained.
+- The work done by Jyotiba Phule in Maharashtra and IyotheeThassar in Tamil Nadu to obtain social justice for the marginalized and the deprived sections of the population is reviewed.
+
+**GLOSSARY**
+
+|  |  |  |
+| --- | --- | --- |
+| Alleged | stated but not proved | சொல்லப்படும் |
+| Ecstatic | in a state of extreme happiness | பரவசமான |
+| Voluminous | bulky | அதிகப் பரிமாணமுள்ள |
+| Reiterated | repeat a statement for emphasis | வலியுறுத்துதல் |
+| Idolatry | the practice of worshipping idols | உருவ வழிபாடு |
+| Tract | a small booklet | சிறு நூல் |
+| Revelation | disclosure | திருவெளிப்பபாடு |

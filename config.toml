@@ -22,7 +22,7 @@ theme = 'design-system'
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
 [languages]
 [languages.en]
-title = '12th Social Science'
+title = '10th Social Science'
 languageName = 'English'
 contentDir = 'content.en'
 weight = 1
@@ -33,8 +33,9 @@ languageName = 'தமிழ்'
 contentDir = 'content.ta'
 weight = 2
 
-[params]
-  [[params.question_repositories]]
-    githubhandle = "tnedu"
-    name = "Competitive exams"
-    url = "/physics-electrostatics"
+
+[security]
+  enableInlineShortcodes = true
+  allowContent = ['(?i)text/markdown', '(?i)text/html']
+[security.funcs]
+  getenv = ['^HUGO_','CONTEXT','BUILD_PRODUCTION']

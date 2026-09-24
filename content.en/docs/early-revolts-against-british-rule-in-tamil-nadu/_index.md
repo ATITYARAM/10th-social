@@ -6,13 +6,21 @@ weight: 6
 summary: "The early resistance movements and revolts in Tamil Nadu against British expansion and colonial administration."
 ---
 
-# Chapter 6
+Unit - 6
 
-# **Early Revolts against British Rule in Tamil Nadu**
+![](assets/page_001_picture_002.png)
+
+**Early Revolts against British Rule in Tamil Nadu**
+
+![](assets/page_001_picture_003.png)
 
 **Learning Objectives**
 
 **To acquaint ourselves with**
+
+- Palayakkarar system and the revolts of Palayakkarars against the British.
+- Velunachiyar, Puli Thevar, Kattabomman and Marudhu Brothers in the anti-British uprisings.
+- Vellore Revolt as a response to British pacification of south India.
 
 **Introduction**
 
@@ -23,6 +31,14 @@ After defeating the French and their Indian allies in the three Carnatic Wars, t
 **(a) Palayams and Palayakkarars**
 
 The word "palayam" means a domain, a military camp, or a little kingdom.
+
+![](assets/page_001_picture_004.png)
+
+![](assets/page_001_picture_005.png)
+
+![](assets/page_001_picture_007.png)
+
+![](assets/page_001_picture_008.png)
 
 Palayakkarars (Poligar is how the British referred to them) in Tamil refers to the holder of a little kingdom as a feudatory to a greater sovereign. Under this system, palayam was given for valuable military services rendered by any individual. This type of Palayakkarars system was in practice during the rule of Prataba Rudhra of Warangal in the Kakatiya kingdom. The system was introduced in Tamil Nadu by Viswanatha Nayaka, when he became the Nayak ruler of Madurai in 1529, with the support of his minister Ariyanathar. Traditionally, there were supposed to be 72 Palayakkarars.
 
@@ -36,11 +52,9 @@ Among the 72 Palayakkarars, created by the Nayak rulers, there were two blocs, n
 
 **(a) Revolt of Puli Thevar (1755–1767)**
 
-![](assets/page_002_picture_002.png)
-
 In March 1755, Mahfuzkhan (brother of the Nawab of Arcot) was sent with a contingent of the Company army under Colonel Heron to Tirunelveli. Madurai easily fell into their
 
-*Puli Thevar*
+![*Puli Thevar*](assets/page_002_picture_002.png)
 
 hands. Thereafter Colonel Heron was urged to deal with Puli Thevar, as he continued to defy the authority of the Company. Puli Thevar wielded much influence over the western palyakkarars. For want of cannon and of supplies and pay to soldiers, Colonel Heron abandoned the plan and retired to Madurai. Heron was recalled and dismissed from service.
 
@@ -72,7 +86,7 @@ Born in 1730 to the Raja Sellamuthu Sethupathy of Ramanathapuram, Velunachiyar w
 
 At the age of 16, Velunachiyar was married to Muthu Vadugar, the Raja of Sivagangai, and had a daughter by name Vellachinachiar. In 1772, the Nawab of Arcot and the Company troops under the command of Lt.
 
-![*Velunachiyar*](assets/page_003_picture_002.png)
+![](assets/page_003_picture_002.png)
 
 Col. Bon Jour stormed the Kalaiyar Kovil Palace. In the ensuing battle Muthu Vadugar was killed. Velunachiyar escaped with her Kuyili is said to have walked into the British arsenal (1780) after setting herself on fire, thus destroying all the ammunition.
 
@@ -84,9 +98,9 @@ During her period in hiding, Velunachiyar organised an army and succeeded in sec
 
 Velunachiyar employed agents for gathering intelligence to find where the British had stored their ammunition. With military assistance from Gopala Nayak and
 
-![](assets/page_003_picture_003.png)
-
 Kuyili, a faithful friend of Velunachiyar, is said to have led the unit of women soldiers named after Udaiyaal. Udaiyaal was a shepherd girl who was killed for not divulging information on Kuyili.
+
+![*Velunachiyar*](assets/page_003_picture_003.png)
 
 *Kuyili*
 
@@ -162,11 +176,9 @@ The suppression of the Palayakkarars rebellion of 1799 and 1800–1801 resulted 
 
 **(e) Dheeran Chinnamalai (1756–1805)**
 
-![](assets/page_006_picture_004.png)
-
 Born as Theerthagiri in 1756, Dheeran was well trained in silambam, archery, horse riding and modern warfare. He was involved in resolving family and land disputes in the Kongu region. As this region was under the control of the Mysore Sultan, tax was collected by Tipu's Diwan Mohammed Ali. Once, when the Diwan was returning to Mysore with the tax money, Theerthagiri blocked his way and confiscated all the tax money. He let Mohammed Ali go by instructing him to tell his Sultan that "Chinnamalai", who is between Sivamalai and Chennimalai, was the one who took away taxes. Thus he gained the name "Dheeran Chinnamalai". The offended Diwan sent a contingent to attack Chinnamalai and both the forces met and fought at the Noyyal river bed. Chinnamalai emerged victorious.
 
-*Dheeran Chinnamalai*
+![*Dheeran Chinnamalai*](assets/page_006_picture_004.png)
 
 After Tipu's death Dheeran Chinnamalai built a fort and fought the British without leaving the place. Hence the place is called Odanilai. He launched guerrilla attacks and evaded capture. Finally the English captured him and his brothers and kept them in prison in Sankagiri. When they were asked to accept the rule of the British, they refused. So they were hanged at the top of the Sankagiri Fort on 31 July 1805.
 
@@ -186,7 +198,11 @@ On 10 July 1806, in the early hours, guns were booming and the Indian sepoys of 
 
 Early Revolts against British Rule in Tamil Nadu Among them Lt. Elly and Lt. Popham belonged to His Majesty's battalion.
 
+![](assets/page_008_picture_003.png)
+
 ![](assets/page_008_picture_004.png)
+
+![](assets/page_008_picture_005.png)
 
 **Gillespie's Brutality**
 
@@ -195,3 +211,35 @@ Major Cootes, who was outside the Fort, informed Colonel Gillespie, the cavalry 
 **(c ) Consequences of Revolt**
 
 Six of the rebels convicted by the Court of Enquiry were blown from the guns; five were shot dead; eight hanged. Tipu's sons were ordered to be sent to Calcutta. The officers
+
+**SUMMARY**
+
+- Prominent Palayakkarars of Tamil country and their resistance to the rule of East India Company are discussed.
+- The wars waged by Puli Thevar, Velunachiyar, Veerapandya Kattabomman, followed by Marudhu brothers of Sivagangai and Dheeran Chinnamalai against the British are elaborated.
+- The reasons for the Vellore Revolt and the ruthless manner in which it was suppressed by Gillespie are detailed.
+
+**GLOSSARY**
+
+|  |  |  |
+| --- | --- | --- |
+| protege | dependent, a person who receives support from a patron | பிறர் ஆதரவில் இருப்பவர் |
+| the act of elevating or raising one's wealth, prestige and power | செல்வாக்கை வளர்த்தல், ஆக்கிரமிப்பு செய்தல் விடுதலைப் பார்க்கவேண்டும் \| விடுதலைப் பார்க்கவேண்டும் விடுதலைப் பார்க்கவேண்டும் \| விடுதலைப் பார்க்கவேண்டும் | aggrandizement |
+| defiant | ing, disobedient பணிய ம | defiant |
+
+![](assets/page_009_picture_002.png)
+
+Early Revolts against British Rule in Tamil Nadu
+
+![](assets/page_010_picture_003.png)
+
+|  |  |  |
+| --- | --- | --- |
+| tranquillity | harmony, peace, free from disturbances | அமைதி |
+| disloyalty, betrayal, breach of trust | வஞ்சித்தல் | treachery |
+| daring, fearless | பயமற்ற, துணிவுமிக்க | audacious |
+| a final dominating demand | இறுதி எச்சரிக்ககை | ultimatum |
+| payment or reward – something given liberally | கொடை | bounty |
+| an ornament, especially a knot of ribbon worn on the hat | தொப்பியை அணிசெய்யும் குஞ்சம் | cockade |
+| notice, having knowledge of | கவனம் | cognizance |
+| crush, defeat | தோற்கடி | trounce |
+| imprisoned | சிறைப்படுத்தல் | interned |
