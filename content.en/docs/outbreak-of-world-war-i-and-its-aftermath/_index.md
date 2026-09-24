@@ -10,15 +10,9 @@ summary: "The causes, course and consequences of the First World War, including 
 
 **Outbreak of World War I and Its Aftermath**
 
-![](assets/page_001_picture_002.png)
-
 **Learning Objectives**
 
 **To acquaint ourselves with**
-
-![](assets/page_001_picture_003.png)
-
-![](assets/page_001_picture_005.png)
 
 - The race for colonies leading to rivalry and clashes among the great powers of Europe
 - Emergence of Japan as the strongest and most aggressive power in East Asia
